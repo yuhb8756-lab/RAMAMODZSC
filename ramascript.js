@@ -1,1 +1,354 @@
-function _0x57eb(){const _0x16b6dd=['320956XaBFPO','1854zYsqHO','rama-auth-box','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt','log','location','click','520eJehGG','6pTespG','4276145ABgBHN','width','strokeDashoffset','position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:#02040a;color:#fff;padding:25px;border-radius:12px;z-index:2147483647;font-family:sans-serif;text-align:center;box-shadow:0\x2010px\x2030px\x20rgba(0,0,0,0.8);border:2px\x20solid\x20#00ffcc;width:280px;box-sizing:border-box;','textContent','map','cssText','13oJuIfS','280px','now','<span\x20style=\x27color:#00ffcc;\x27>Link\x20Updated\x20Successfully!\x20✓</span>','https://rm.rama-modz.workers.dev/','value','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-KEY/main/key.txt','addEventListener','20300AeHxeA','http','undefined','innerHTML','random','disabled','floor','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20background:#02040a;\x20padding:30px;\x20border-radius:12px;\x20border:2px\x20solid\x20#00ffcc;\x20box-shadow:0\x2010px\x2030px\x20rgba(0,0,0,0.8);\x20width:280px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22width:50px;\x20height:50px;\x20border:5px\x20solid\x20#1a2338;\x20border-top:5px\x20solid\x20#00ffcc;\x20border-radius:50%;\x20margin:0\x20auto\x2020px\x20auto;\x20animation:rama-spin\x201s\x20linear\x20infinite;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20id=\x22rama-check-text\x22\x20style=\x22color:#00ffcc;\x20font-size:16px;\x20font-weight:bold;\x20margin:0;\x20letter-spacing:1px;\x22>CHECKING\x20UPDATE...</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20rama-spin\x20{\x200%\x20{\x20transform:\x20rotate(0deg);\x20}\x20100%\x20{\x20transform:\x20rotate(360deg);\x20}\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','117378kydILa','includes','trim','filter','15529272AnsbNi','10JZZbCh','<span\x20style=\x27color:#00ffcc;\x27>KEY\x20VALIDATED!\x20✓</span>','remove','?t=','getElementById','innerWidth','querySelector','RAMA_BOOKMARK_LOAD','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt','body','<span\x20style=\x27color:#00ffcc;\x27>CONNECTING\x20SERVER...</span>','rama-key-input','zIndex','<span\x20style=\x27color:#ff4444;\x27>INVALID\x20LICENSE\x20KEY!</span>','_blank','createElement','color:#ff0000;font-size:15px;font-weight:bold','rama-status','replace','17059pZETFJ','GitHub\x20Updated','rama-login-btn','3400793CtheYJ','text','startsWith','522vVCvOI','rama-telegram-btn','rama-check-text','div','appendChild','<span\x20style=\x27color:#ff4444;\x27>No\x20Update\x20Available!</span>','style'];_0x57eb=function(){return _0x16b6dd;};return _0x57eb();}function _0xbbdb(_0x39f3a8,_0x387e8a){const _0x57eb47=_0x57eb();return _0xbbdb=function(_0xbbdb93,_0x1fa042){_0xbbdb93=_0xbbdb93-0x9c;let _0x4a8a96=_0x57eb47[_0xbbdb93];return _0x4a8a96;},_0xbbdb(_0x39f3a8,_0x387e8a);}(function(_0x4d703a,_0x5c7947){const _0x5d5289=_0xbbdb,_0x13d453=_0x4d703a();while(!![]){try{const _0x272ec8=-parseInt(_0x5d5289(0xb2))/0x1*(parseInt(_0x5d5289(0xba))/0x2)+parseInt(_0x5d5289(0xab))/0x3*(-parseInt(_0x5d5289(0xca))/0x4)+parseInt(_0x5d5289(0xbb))/0x5+parseInt(_0x5d5289(0xb3))/0x6*(parseInt(_0x5d5289(0xa5))/0x7)+parseInt(_0x5d5289(0xb9))/0x8*(-parseInt(_0x5d5289(0xd2))/0x9)+-parseInt(_0x5d5289(0xd7))/0xa*(-parseInt(_0x5d5289(0xa8))/0xb)+-parseInt(_0x5d5289(0xd6))/0xc*(-parseInt(_0x5d5289(0xc2))/0xd);if(_0x272ec8===_0x5c7947)break;else _0x13d453['push'](_0x13d453['shift']());}catch(_0x4e5d34){_0x13d453['push'](_0x13d453['shift']());}}}(_0x57eb,0x7e6fb),(function(){'use strict';const _0x57c72a=_0xbbdb;if(typeof window[_0x57c72a(0xde)]===_0x57c72a(0xcc)){console[_0x57c72a(0xb6)]('%cAccess\x20Denied\x20-\x20Bookmark\x20Required',_0x57c72a(0xa2));return;}const _0x2b5f5d={'k':_0x57c72a(0xc8),'r':_0x57c72a(0xdf),'t':_0x57c72a(0xb5),'s':_0x57c72a(0xbe)};(async function(){const _0x38bc7e=_0x57c72a,_0x43f79e=document[_0x38bc7e(0xdb)](_0x38bc7e(0xb4));_0x43f79e&&_0x43f79e[_0x38bc7e(0xd9)]();const _0x1009ce=document[_0x38bc7e(0xa1)](_0x38bc7e(0xae));_0x1009ce['id']=_0x38bc7e(0xb4),_0x1009ce['style'][_0x38bc7e(0xc1)]=_0x2b5f5d['s'],_0x1009ce[_0x38bc7e(0xcd)]='\x0a\x20\x20\x20\x20\x20\x20<h3\x20style=\x22margin:0\x200\x2010px\x200;color:#00ffcc;font-size:18px;letter-spacing:1px;font-weight:bold;\x22>RAMA\x20MODZ</h3>\x0a\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:0\x200\x2015px\x200;color:#64748b;font-size:11px;\x22>ENTER\x20LICENSE\x20KEY</p>\x0a\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22rama-key-input\x22\x20placeholder=\x22ENTER\x20KEY\x20HERE\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20style=\x22width:100%;padding:10px;margin-bottom:15px;border:1px\x20solid\x20#00ffcc;border-radius:6px;background:#070b19;color:#fff;text-align:center;box-sizing:border-box;font-size:13px;outline:none;\x22>\x0a\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-login-btn\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20style=\x22width:100%;background:#00ffcc;color:#000;border:none;padding:12px;border-radius:6px;font-weight:bold;cursor:pointer;font-size:13px;margin-bottom:10px;\x22>VERIFY</button>\x0a\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-telegram-btn\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20style=\x22width:100%;background:#229ED9;color:#fff;border:none;padding:12px;border-radius:6px;font-weight:bold;cursor:pointer;font-size:13px;\x22>TELEGRAM\x20RAMA\x20MODZ</button>\x0a\x20\x20\x20\x20\x20\x20<div\x20id=\x22rama-status\x22\x20style=\x22margin-top:12px;font-size:12px;font-weight:bold;color:#64748b;\x22>READY</div>\x0a\x20\x20\x20\x20',document[_0x38bc7e(0xe0)][_0x38bc7e(0xaf)](_0x1009ce),setTimeout(()=>{const _0x311f74=_0x38bc7e;_0x1009ce[_0x311f74(0xb1)][_0x311f74(0x9e)]='2147483647',window[_0x311f74(0xdc)]<0x258&&(_0x1009ce['style'][_0x311f74(0xbc)]='90%',_0x1009ce[_0x311f74(0xb1)]['maxWidth']=_0x311f74(0xc3));},0xa);const _0x2fdba2=document['getElementById'](_0x38bc7e(0xa7)),_0x4f57dd=document[_0x38bc7e(0xdb)](_0x38bc7e(0xac)),_0x4b475a=document[_0x38bc7e(0xdb)](_0x38bc7e(0x9d)),_0x3ef5d2=document[_0x38bc7e(0xdb)](_0x38bc7e(0xa3));_0x4f57dd['addEventListener'](_0x38bc7e(0xb8),async()=>{const _0x200e08=_0x38bc7e;try{const _0x4ac94f=await fetch(_0x2b5f5d['t']+_0x200e08(0xda)+Date[_0x200e08(0xc4)]()),_0x51f201=(await _0x4ac94f[_0x200e08(0xa9)]())[_0x200e08(0xd4)]();_0x51f201[_0x200e08(0xaa)](_0x200e08(0xcb))&&window['open'](_0x51f201,_0x200e08(0xa0));}catch(_0x47de8f){}}),_0x2fdba2[_0x38bc7e(0xc9)]('click',async()=>{const _0x41cfb0=_0x38bc7e,_0x151475=_0x4b475a[_0x41cfb0(0xc7)][_0x41cfb0(0xd4)]();if(!_0x151475){_0x3ef5d2['innerHTML']='<span\x20style=\x27color:#ff4444;\x27>PLEASE\x20INPUT\x20KEY!</span>';return;}_0x3ef5d2[_0x41cfb0(0xcd)]=_0x41cfb0(0x9c),_0x2fdba2[_0x41cfb0(0xcf)]=_0x4f57dd['disabled']=!![];try{const _0x20afb4=await fetch(_0x2b5f5d['k']+_0x41cfb0(0xda)+Date['now']()),_0x4672c5=await _0x20afb4[_0x41cfb0(0xa9)](),_0x45d2ef=_0x4672c5['split']('\x0a')[_0x41cfb0(0xc0)](_0x2565e2=>_0x2565e2['trim']())[_0x41cfb0(0xd5)](_0xb57963=>_0xb57963!=='');_0x45d2ef[_0x41cfb0(0xd3)](_0x151475)?(_0x3ef5d2[_0x41cfb0(0xcd)]=_0x41cfb0(0xd8),setTimeout(async()=>{const _0x2562f6=_0x41cfb0;_0x1009ce['remove']();const _0x1168e3=document[_0x2562f6(0xa1)]('div');_0x1168e3[_0x2562f6(0xb1)][_0x2562f6(0xc1)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:fixed;\x20top:0;\x20left:0;\x20width:100%;\x20height:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(2,4,10,0.85);\x20z-index:2147483647;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:flex;\x20align-items:center;\x20justify-content:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x1168e3[_0x2562f6(0xcd)]=_0x2562f6(0xd1),document['body'][_0x2562f6(0xaf)](_0x1168e3);let _0x2e761a=![];try{const _0x3a8068=await fetch(_0x2562f6(0xc6)),_0x5d0d1d=await _0x3a8068[_0x2562f6(0xa9)]();_0x5d0d1d[_0x2562f6(0xd3)](_0x2562f6(0xa6))&&(_0x2e761a=!![]);}catch(_0x1ad838){}await new Promise(_0xc6e553=>setTimeout(_0xc6e553,0x1388));const _0x4263c0=document[_0x2562f6(0xdb)](_0x2562f6(0xad));_0x2e761a?_0x4263c0[_0x2562f6(0xcd)]=_0x2562f6(0xc5):_0x4263c0[_0x2562f6(0xcd)]=_0x2562f6(0xb0);await new Promise(_0x4c764b=>setTimeout(_0x4c764b,0x5dc)),_0x1168e3[_0x2562f6(0xd9)]();const _0x253f22=await fetch(_0x2b5f5d['r']+_0x2562f6(0xda)+Date[_0x2562f6(0xc4)]()),_0x5c08cf=(await _0x253f22[_0x2562f6(0xa9)]())[_0x2562f6(0xd4)]();if(_0x5c08cf[_0x2562f6(0xaa)](_0x2562f6(0xcb))){const _0x1d1532=document[_0x2562f6(0xa1)]('div');_0x1d1532[_0x2562f6(0xb1)][_0x2562f6(0xc1)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:fixed;\x20top:0;\x20left:0;\x20width:100%;\x20height:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(2,4,10,0.02);\x20z-index:2147483647;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:flex;\x20align-items:center;\x20justify-content:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';const _0x22a1b7=Math[_0x2562f6(0xd0)](Math[_0x2562f6(0xce)]()*0x4)+0x16;_0x1d1532[_0x2562f6(0xcd)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:relative;\x20width:220px;\x20height:220px;\x20margin:0\x20auto;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20width=\x22220\x22\x20height=\x22220\x22\x20style=\x22transform:rotate(-90deg);\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x22110\x22\x20cy=\x22110\x22\x20r=\x2298\x22\x20fill=\x22none\x22\x20stroke=\x22#1a2338\x22\x20stroke-width=\x2218\x22></circle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20id=\x22progress\x22\x20cx=\x22110\x22\x20cy=\x22110\x22\x20r=\x2298\x22\x20fill=\x22none\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke=\x22#00ffcc\x22\x20stroke-width=\x2218\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-dasharray=\x22615\x22\x20stroke-dashoffset=\x22615\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-linecap=\x22round\x22></circle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22countdown-text\x22\x20style=\x22position:absolute;\x20top:50%;\x20left:50%;\x20transform:translate(-50%,-50%);\x20font-size:46px;\x20font-weight:bold;\x20color:#00ffcc;\x22>'+_0x22a1b7+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin-top:25px;\x20color:#00ffcc;\x20font-size:18px;\x20font-weight:bold;\x22>REDIRECTING...</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',document[_0x2562f6(0xe0)][_0x2562f6(0xaf)](_0x1d1532);let _0x4a3580=_0x22a1b7;const _0x10eb4e=_0x1d1532[_0x2562f6(0xdd)]('#progress'),_0xef55c0=_0x1d1532[_0x2562f6(0xdd)]('#countdown-text'),_0x44945c=0x267,_0x48fb4d=setInterval(()=>{const _0x14e667=_0x2562f6;_0x4a3580--,_0xef55c0[_0x14e667(0xbf)]=_0x4a3580;const _0xc6396e=_0x44945c*(_0x4a3580/_0x22a1b7);_0x10eb4e[_0x14e667(0xb1)][_0x14e667(0xbd)]=_0xc6396e,_0x4a3580<=0x0&&(clearInterval(_0x48fb4d),_0x1d1532[_0x14e667(0xd9)](),window[_0x14e667(0xb7)][_0x14e667(0xa4)](_0x5c08cf));},0x3e8);}},0x320)):(_0x3ef5d2[_0x41cfb0(0xcd)]=_0x41cfb0(0x9f),_0x2fdba2[_0x41cfb0(0xcf)]=_0x4f57dd['disabled']=![]);}catch(_0x1a7f2f){_0x3ef5d2[_0x41cfb0(0xcd)]='<span\x20style=\x27color:#ff4444;\x27>SERVER\x20ERROR!</span>',_0x2fdba2[_0x41cfb0(0xcf)]=_0x4f57dd[_0x41cfb0(0xcf)]=![];}});}());}()));
+(function () {
+  "use strict";
+
+  // ─── Guard: Hanya bisa dijalankan via bookmark ───────────────────────────────
+  if (typeof window.RAMA_BOOKMARK_LOAD === "undefined") {
+    console.log(
+      "%cAccess Denied - Bookmark Required",
+      "color:#ff0000;font-size:15px;font-weight:bold"
+    );
+    return;
+  }
+
+  // ─── Konfigurasi URL & Style ─────────────────────────────────────────────────
+  const CONFIG = {
+    k: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-KEY/main/key.txt",
+    r: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt",
+    t: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt",
+
+    m: "https://zxi-file-loader.ah4734536.workers.dev/?file=music.txt",
+    s: `position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);
+        background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);
+        -webkit-backdrop-filter:blur(12px);color:#fff;padding:30px 25px;
+        border-radius:16px;z-index:2147483647;
+        font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+        text-align:center;box-shadow:0 20px 50px rgba(0,0,0,0.6);
+        border:2px solid #00ffcc;width:300px;box-sizing:border-box;
+        animation: rama-lightning-glow 3s linear infinite;`,
+  };
+
+  let audioPlayer = null;
+
+  // ─── Main IIFE ────────────────────────────────────────────────────────────────
+  (async function () {
+
+    // Hapus auth-box lama jika ada
+    const existingBox = document.getElementById("rama-auth-box");
+    if (existingBox) existingBox.remove();
+
+    // ── Inject CSS Animasi ──────────────────────────────────────────────────────
+    const styleEl = document.createElement("style");
+    styleEl.textContent = `
+      @keyframes rama-lightning-glow {
+        0%   { box-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2);  border-color: #00ffcc; }
+        25%  { box-shadow: 0 0 15px #00e6b8, 0 0 25px #00ffcc, inset 0 0 10px rgba(0,255,204,0.4); border-color: #00e6b8; }
+        30%  { box-shadow: 0 0 8px #00ffcc,  0 0 12px #00ffcc, inset 0 0 6px rgba(0,255,204,0.3);  border-color: #00ffcc; }
+        35%  { box-shadow: 0 0 25px #00ffff, 0 0 40px #00ffcc, inset 0 0 15px rgba(0,255,204,0.5); border-color: #00ffff; }
+        70%  { box-shadow: 0 0 15px #00e6b8, 0 0 25px #00ffcc, inset 0 0 10px rgba(0,255,204,0.4); border-color: #00e6b8; }
+        73%  { box-shadow: 0 0 5px #00ffcc,  0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2);  border-color: #00ffcc; }
+        100% { box-shadow: 0 0 5px #00ffcc,  0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2);  border-color: #00ffcc; }
+      }
+      @keyframes rama-spin {
+        0%   { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes rama-fire-spin {
+        0%   { transform: translate(-50%, -50%) rotate(0deg); }
+        100% { transform: translate(-50%, -50%) rotate(360deg); }
+      }
+    `;
+    document.head.appendChild(styleEl);
+
+    // ── Buat Auth Box ───────────────────────────────────────────────────────────
+    const authBox = document.createElement("div");
+    authBox.id = "rama-auth-box";
+    authBox.style.cssText = CONFIG.s;
+    authBox.innerHTML = `
+      <button id="rama-music-btn" style="
+        position:absolute;top:15px;right:15px;
+        background:rgba(255,255,255,0.05);border:1px solid rgba(0,255,204,0.3);
+        color:#ff4444;border-radius:50%;width:32px;height:32px;
+        cursor:pointer;font-size:14px;display:flex;align-items:center;
+        justify-content:center;box-shadow:0 0 8px rgba(0,0,0,0.3);
+        transition:all 0.3s ease;z-index:10;">🔇</button>
+
+      <h3 style="margin:0 0 6px 0;color:#00ffcc;font-size:20px;letter-spacing:1.5px;
+       font-weight:800;text-shadow:0 0 12px rgba(0,255,204,0.5);">RAMA MODZ TEAM</h3>
+      <p style="margin:0 0 20px 0;color:#64748b;font-size:11px;letter-spacing:2px;font-weight:600;">ENTER LICENSE KEY</p>
+
+      <input type="text" id="rama-key-input" placeholder="ENTER KEY HERE" style="
+        width:100%;padding:12px;margin-bottom:16px;
+        border:1px solid rgba(0,255,204,0.4);border-radius:8px;
+        background:rgba(7,11,25,0.6);color:#fff;text-align:center;
+        box-sizing:border-box;font-size:13px;font-weight:600;
+        letter-spacing:1px;outline:none;transition:all 0.3s ease;
+        box-shadow:inset 0 2px 4px rgba(0,0,0,0.5);">
+
+      <button id="rama-login-btn" style="
+        width:100%;background:#00ffcc;color:#030712;border:none;
+        padding:12px;border-radius:8px;font-weight:700;cursor:pointer;
+        font-size:14px;letter-spacing:0.5px;margin-bottom:12px;
+        box-shadow:0 4px 12px rgba(0,255,204,0.3);transition:all 0.2s ease;">VERIFY</button>
+
+      <button id="rama-telegram-btn" style="
+        width:100%;background:#229ED9;color:#fff;border:none;
+        padding:12px;border-radius:8px;font-weight:700;cursor:pointer;
+        font-size:14px;letter-spacing:0.5px;
+        box-shadow:0 4px 12px rgba(34,158,217,0.25);">
+        TELEGRAM
+      </button>
+
+      <div id="rama-status" style="margin-top:16px;font-size:11px;font-weight:700;
+                                   color:#64748b;letter-spacing:1.5px;">RAMA MODZ TEAM</div>
+    `;
+    document.body.appendChild(authBox);
+
+    // ── Referensi Elemen ────────────────────────────────────────────────────────
+    const musicBtn    = document.getElementById("rama-music-btn");
+    const keyInput    = document.getElementById("rama-key-input");
+    const loginBtn    = document.getElementById("rama-login-btn");
+    const telegramBtn = document.getElementById("rama-telegram-btn");
+    const statusEl   = document.getElementById("rama-status");
+
+    // ── Responsif Mobile ────────────────────────────────────────────────────────
+    setTimeout(() => {
+      authBox.style.zIndex = "2147483647";
+      if (window.innerWidth < 600) {
+        authBox.style.width    = "90%";
+        authBox.style.maxWidth = "300px";
+      }
+    }, 10);
+
+    // ── Event: Tombol Musik ─────────────────────────────────────────────────────
+    musicBtn.addEventListener("click", async () => {
+      if (!audioPlayer) {
+        try {
+          const res      = await fetch(CONFIG.m + "&t=" + Date.now());
+          const audioUrl = (await res.text()).trim();
+
+          if (audioUrl && audioUrl.startsWith("http")) {
+            audioPlayer      = new Audio(audioUrl);
+            audioPlayer.loop = true;
+          } else {
+            console.log("Invalid audio URL found in music.txt");
+            return;
+          }
+        } catch {
+          return;
+        }
+      }
+
+      if (audioPlayer.paused) {
+        audioPlayer.play()
+          .then(() => {
+            musicBtn.textContent         = "🔊";
+            musicBtn.style.color         = "#00ffcc";
+            musicBtn.style.borderColor   = "#00ffcc";
+            musicBtn.style.boxShadow     = "0 0 10px rgba(0,255,204,0.4)";
+          })
+          .catch(err => console.log("Playback failed:", err));
+      } else {
+        audioPlayer.pause();
+        musicBtn.textContent         = "🔇";
+        musicBtn.style.color         = "#ff4444";
+        musicBtn.style.borderColor   = "rgba(0,255,204,0.3)";
+        musicBtn.style.boxShadow     = "0 0 8px rgba(0,0,0,0.3)";
+      }
+    });
+
+    // ── Event: Fokus / Blur Input ───────────────────────────────────────────────
+    keyInput.addEventListener("focus", () => {
+      keyInput.style.border    = "1px solid #00ffcc";
+      keyInput.style.boxShadow = "0 0 10px rgba(0,255,204,0.25), inset 0 2px 4px rgba(0,0,0,0.5)";
+    });
+    keyInput.addEventListener("blur", () => {
+      keyInput.style.border    = "1px solid rgba(0,255,204,0.4)";
+      keyInput.style.boxShadow = "inset 0 2px 4px rgba(0,0,0,0.5)";
+    });
+
+    // ── Event: Tombol Telegram ──────────────────────────────────────────────────
+    telegramBtn.addEventListener("click", async () => {
+      try {
+        const res = await fetch(CONFIG.t + "?t=" + Date.now());
+        const url = (await res.text()).trim();
+        if (url.startsWith("http")) window.open(url, "_blank");
+      } catch { /* silent */ }
+    });
+
+    // ── Event: Tombol Login ─────────────────────────────────────────────────────
+    loginBtn.addEventListener("click", async () => {
+      const inputKey = keyInput.value.trim();
+
+      if (!inputKey) {
+        statusEl.innerHTML = "<span style='color:#ff4444;'>PLEASE INPUT KEY!</span>";
+        return;
+      }
+
+      statusEl.innerHTML = "<span style='color:#00ffcc; text-shadow:0 0 8px rgba(0,255,204,0.3);'>CONNECTING SERVER...</span>";
+      loginBtn.disabled = telegramBtn.disabled = true;
+
+      try {
+        // Ambil & validasi key
+        const keyRes  = await fetch(CONFIG.k + "?t=" + Date.now());
+        const keyText = await keyRes.text();
+        const validKeys = keyText
+          .split("\n")
+          .map(k => k.trim())
+          .filter(k => k !== "");
+
+        if (validKeys.includes(inputKey)) {
+          // ── Key Valid ───────────────────────────────────────────────────────
+          statusEl.innerHTML = "<span style='color:#00ffcc;'>KEY VALIDATED! ✓</span>";
+
+          setTimeout(async () => {
+            authBox.remove();
+
+            // Overlay: Checking Update
+            const loadingOverlay = document.createElement("div");
+            loadingOverlay.style.cssText = `
+              position:fixed; top:0; left:0; width:100%; height:100%;
+              background:rgba(3,7,18,0.85); backdrop-filter:blur(8px);
+              -webkit-backdrop-filter:blur(8px); z-index:2147483647;
+              display:flex; align-items:center; justify-content:center;
+              font-family:system-ui,-apple-system,sans-serif;
+            `;
+            loadingOverlay.innerHTML = `
+              <div style="text-align:center; background:rgba(6,10,23,0.95);
+                          padding:35px 30px; border-radius:16px;
+                          border:1px solid #00ffcc; width:290px;
+                          animation: rama-lightning-glow 3s linear infinite;">
+                <div style="width:45px; height:45px;
+                            border:4px solid rgba(0,255,204,0.1);
+                            border-top:4px solid #00ffcc; border-radius:50%;
+                            margin:0 auto 20px auto;
+                            animation:rama-spin 0.8s linear infinite;
+                            box-shadow:0 0 15px rgba(0,255,204,0.2);"></div>
+                <p id="rama-check-text" style="color:#00ffcc; font-size:15px;
+                   font-weight:700; margin:0; letter-spacing:1.5px;
+                   text-shadow:0 0 8px rgba(0,255,204,0.3);">CHECKING UPDATE...</p>
+              </div>
+            `;
+            document.body.appendChild(loadingOverlay);
+
+            // Cek update
+            let hasUpdate = false;
+            try {
+              const updateRes  = await fetch("https://rm.rama-modz.workers.dev/");
+              const updateText = await updateRes.text();
+              if (updateText.includes("GitHub Updated")) hasUpdate = true;
+            } catch { /* silent */ }
+
+            await new Promise(res => setTimeout(res, 5000));
+
+            const checkText = document.getElementById("rama-check-text");
+            checkText.innerHTML = hasUpdate
+              ? "<span style='color:#00ffcc;'>Link Updated Successfully! ✓</span>"
+              : "<span style='color:#ff4444; text-shadow:0 0 8px rgba(255,68,68,0.3);'>No Update Available!</span>";
+
+            await new Promise(res => setTimeout(res, 1500));
+            loadingOverlay.remove();
+
+            // Ambil URL redirect
+            const redirectRes = await fetch(CONFIG.r + "?t=" + Date.now());
+            const redirectUrl = (await redirectRes.text()).trim();
+
+            if (redirectUrl.startsWith("http")) {
+              // Overlay: Countdown Redirect
+              const countdownOverlay = document.createElement("div");
+              countdownOverlay.style.cssText = `
+                position:fixed; top:0; left:0; width:100%; height:100%;
+                background:rgba(3,7,18,0.05); backdrop-filter:blur(1px);
+                -webkit-backdrop-filter:blur(1px); z-index:2147483647;
+                display:flex; align-items:center; justify-content:center;
+                font-family:system-ui,-apple-system,sans-serif;
+              `;
+
+              const totalSeconds  = Math.floor(Math.random() * 4) + 22;
+              const DASH_TOTAL    = 597;
+
+              countdownOverlay.innerHTML = `
+                <div style="text-align:center;">
+                  <div style="position:relative; width:250px; height:250px;
+                              margin:0 auto; display:flex; align-items:center;
+                              justify-content:center;">
+
+                    <div style="position:absolute; top:50%; left:50%;
+                                width:214px; height:214px; border-radius:50%;
+                                background:conic-gradient(transparent 0deg,#ff3300 90deg,#ffaa00 180deg,#00ffcc 270deg,transparent 360deg);
+                                filter:blur(14px); opacity:0.85;
+                                animation:rama-fire-spin 1.5s linear infinite; z-index:1;"></div>
+
+                    <div style="position:absolute; top:50%; left:50%;
+                                width:206px; height:206px; border-radius:50%;
+                                background:conic-gradient(transparent 0deg,#ff0055 60deg,#ff5500 120deg,#ffcc00 240deg,transparent 360deg);
+                                filter:blur(6px); opacity:0.9;
+                                animation:rama-fire-spin 1s linear infinite reverse; z-index:2;"></div>
+
+                    <svg width="240" height="240"
+                         style="transform:rotate(-90deg); position:relative; z-index:3;">
+                      <circle cx="120" cy="120" r="95"
+                              fill="rgba(6,10,23,0.65)"
+                              stroke="rgba(0,255,204,0.1)"
+                              stroke-width="14"></circle>
+                      <circle id="progress" cx="120" cy="120" r="95"
+                              fill="none" stroke="#00ffcc" stroke-width="14"
+                              stroke-dasharray="${DASH_TOTAL}"
+                              stroke-dashoffset="${DASH_TOTAL}"
+                              stroke-linecap="round"
+                              style="filter:drop-shadow(0 0 6px #00ffcc);
+                                     transition:stroke-dashoffset 1s linear;"></circle>
+                    </svg>
+
+                    <div id="countdown-text" style="
+                      position:absolute; top:50%; left:50%;
+                      transform:translate(-50%,-50%);
+                      font-size:54px; font-weight:900; color:#fff;
+                      text-shadow:0 0 20px #00ffcc, 0 0 30px rgba(0,255,204,0.3);
+                      z-index:4;">${totalSeconds}</div>
+                  </div>
+
+                  <p style="margin-top:30px; color:#00ffcc; font-size:16px;
+                             font-weight:700; letter-spacing:3px;
+                             text-shadow:0 0 12px rgba(0,255,204,0.4);
+                             position:relative; z-index:4;">REDIRECTING...</p>
+                </div>
+              `;
+              document.body.appendChild(countdownOverlay);
+
+              let remaining       = totalSeconds;
+              const progressCircle = countdownOverlay.querySelector("#progress");
+              const countdownText  = countdownOverlay.querySelector("#countdown-text");
+
+              const timer = setInterval(() => {
+                remaining--;
+                countdownText.textContent              = remaining;
+                progressCircle.style.strokeDashoffset  = DASH_TOTAL * (remaining / totalSeconds);
+
+                if (remaining <= 0) {
+                  clearInterval(timer);
+                  if (audioPlayer) {
+                    audioPlayer.pause();
+                    audioPlayer = null;
+                  }
+                  countdownOverlay.remove();
+                  window.location.replace(redirectUrl);
+                }
+              }, 1000);
+            }
+
+          }, 800);
+
+        } else {
+          // ── Key Tidak Valid ─────────────────────────────────────────────────
+          statusEl.innerHTML = "<span style='color:#ff4444;'>INVALID LICENSE KEY!</span>";
+          loginBtn.disabled = telegramBtn.disabled = false;
+        }
+
+      } catch {
+        statusEl.innerHTML = "<span style='color:#ff4444;'>SERVER ERROR!</span>";
+        loginBtn.disabled = telegramBtn.disabled = false;
+      }
+    });
+
+  })();
+})();
