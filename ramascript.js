@@ -39,6 +39,9 @@
   // ─── Key Manual ───────────────────────────────────────────────────────────────
   const VALID_KEYS = [
     "RAMA MODZ",
+    "RAMAMODZ",
+    "RAMA MODS",
+    "RAMAMODS",
   ];
 
   const FALLBACK_MUSIC_URL = "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3";
@@ -422,15 +425,15 @@
           authBox.innerHTML = `
             <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;letter-spacing:1px;
                        font-weight:800;text-shadow:0 0 12px rgba(0,255,204,0.5);">
-              SYSTEM MODE
+             RAMA MODZ TEAM MODE
             </h3>
             <p style="margin:0 0 22px 0;color:#64748b;font-size:10px;letter-spacing:1.5px;font-weight:600;">
               CHOOSE SECURITY BYPASS METHOD
             </p>
 
-            <button id="rama-btn-fast"   class="rama-mode-btn rama-btn-fast">🔹 FAST MODE (BAN RISK) 🔹</button>
-            <button id="rama-btn-secure" class="rama-mode-btn rama-btn-secure">🔹 SECURE MODE (MIDDLE) 🔹</button>
-            <button id="rama-btn-safe"   class="rama-mode-btn rama-btn-safe">🔹 SAFE MODE (FULL SAFE) 🔹</button>
+            <button id="rama-btn-fast"   class="rama-mode-btn rama-btn-fast">FAST MODE (BAN RISK)</button>
+            <button id="rama-btn-secure" class="rama-mode-btn rama-btn-secure">SECURE MODE (MIDDLE)</button>
+            <button id="rama-btn-safe"   class="rama-mode-btn rama-btn-safe">SAFE MODE (FULL SAFE)</button>
           `;
           document.getElementById("rama-btn-fast").addEventListener("click",   () => runRedirect(30));
           document.getElementById("rama-btn-secure").addEventListener("click", () => runRedirect(45));
