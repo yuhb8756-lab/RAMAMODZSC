@@ -1,6 +1,7 @@
 (function () {
   "use strict";
 
+  // ─── Guard: Hanya bisa dijalankan via bookmark ───────────────────────────────
   let instanceIndex = -1;
   if (typeof window.RAMA_BOOKMARK_LOAD !== "undefined") {
     instanceIndex = 0;
@@ -20,12 +21,11 @@
     return;
   }
 
+  // ─── Konfigurasi URL & Style ─────────────────────────────────────────────────
   const CONFIG = {
     r: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt",
     t: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt",
     m: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3",
-    
-        n: "https://zxi-file-loader.ah4734536.workers.dev/?file=name.txt",
     s: "position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);" +
        "background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);" +
        "-webkit-backdrop-filter:blur(12px);color:#fff;padding:30px 25px;" +
@@ -36,36 +36,25 @@
        "animation: rama-lightning-glow 3s linear infinite;",
   };
 
+  // ─── Key Manual ───────────────────────────────────────────────────────────────
+  const VALID_KEYS = [
+    "RAMA MODZ",
+  ];
+
   const FALLBACK_MUSIC_URL = "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3";
   let audioPlayer = null;
 
-
+  // ─── Main IIFE ────────────────────────────────────────────────────────────────
   (async function () {
 
+    // Hapus elemen lama jika ada
     document.getElementById("rama-auth-box")?.remove();
     document.getElementById("rama-floating-credit")?.remove();
 
+    const titleName    = "RAMA MODZ";
+    const telegramLink = "https://t.me/ramachanel";
 
-    let titleName    = "RAMA MODZ";
-    let telegramLink = "https://t.me/ramachanel";
-    let masterKey    = "";
-    try {
-      const nameRes  = await fetch(CONFIG.n + "&t=" + Date.now());
-      const nameText = await nameRes.text();
-      const lines    = nameText.split(/\r?\n/).map(l => l.trim()).filter(l => l !== "");
-      if (lines[instanceIndex]) {
-        const parts = lines[instanceIndex].match(/"([^"]+)"/g);
-        if (parts && parts.length >= 3) {
-          titleName    = parts[0].replace(/"/g, "");
-          telegramLink = parts[1].replace(/"/g, "");
-          masterKey    = parts[2].replace(/"/g, "");
-        }
-      }
-    } catch (err) {
-      console.error("Data loading failed:", err);
-    }
-
-
+    // ── Inject CSS Animasi ────────────────────────────────────────────────────
     const styleEl = document.createElement("style");
     styleEl.textContent = `
       @keyframes rama-lightning-glow {
@@ -136,7 +125,7 @@
     `;
     document.head.appendChild(styleEl);
 
-
+    // ── Floating Credit ───────────────────────────────────────────────────────
     const creditLink     = document.createElement("a");
     creditLink.id        = "rama-floating-credit";
     creditLink.className = "rama-clickable-credit";
@@ -145,7 +134,7 @@
     creditLink.target    = "_blank";
     document.body.appendChild(creditLink);
 
-
+    // ── Buat Auth Box ─────────────────────────────────────────────────────────
     const authBox         = document.createElement("div");
     authBox.id            = "rama-auth-box";
     authBox.style.cssText = CONFIG.s;
@@ -197,12 +186,14 @@
     `;
     document.body.appendChild(authBox);
 
+    // ── Referensi Elemen ──────────────────────────────────────────────────────
     const musicBtn    = document.getElementById("rama-music-btn");
     const keyInput    = document.getElementById("rama-key-input");
     const loginBtn    = document.getElementById("rama-login-btn");
     const telegramBtn = document.getElementById("rama-telegram-btn");
     const statusEl    = document.getElementById("rama-status");
 
+    // ── Responsif Mobile ──────────────────────────────────────────────────────
     setTimeout(() => {
       authBox.style.zIndex = "2147483647";
       if (window.innerWidth < 600) {
@@ -211,17 +202,17 @@
       }
     }, 10);
 
-
+    // ── Event: Tombol Musik ───────────────────────────────────────────────────
     let musicLoading = false;
     musicBtn.addEventListener("click", async () => {
-      if (musicLoading) return; // cegah double-click saat loading
+      if (musicLoading) return;
 
       if (!audioPlayer) {
         musicLoading         = true;
         musicBtn.textContent = "⏳";
-        let resolvedUrl      = FALLBACK_MUSIC_URL; // default fallback
+        let resolvedUrl      = FALLBACK_MUSIC_URL;
         try {
-          const res      = await fetch(CONFIG.m + "&t=" + Date.now());
+          const res      = await fetch(CONFIG.m + "?t=" + Date.now());
           const audioUrl = (await res.text()).trim();
           if (audioUrl && audioUrl.startsWith("http")) {
             resolvedUrl = audioUrl;
@@ -236,7 +227,6 @@
         musicLoading     = false;
       }
 
-      // Toggle play / pause
       if (audioPlayer.paused) {
         audioPlayer.play()
           .then(() => {
@@ -258,6 +248,7 @@
       }
     });
 
+    // ── Event: Fokus / Blur Input ─────────────────────────────────────────────
     keyInput.addEventListener("focus", () => {
       keyInput.style.border    = "1px solid #00ffcc";
       keyInput.style.boxShadow = "0 0 10px rgba(0,255,204,0.25), inset 0 2px 4px rgba(0,0,0,0.5)";
@@ -266,16 +257,18 @@
       keyInput.style.border    = "1px solid rgba(0,255,204,0.4)";
       keyInput.style.boxShadow = "inset 0 2px 4px rgba(0,0,0,0.5)";
     });
-    
+
+    // ── Event: Tombol Telegram ────────────────────────────────────────────────
     telegramBtn.addEventListener("click", () => {
       if (telegramLink && telegramLink.startsWith("http")) {
         window.open(telegramLink, "_blank");
       }
     });
 
-
+    // ── Fungsi: Overlay Checking Update + Countdown Redirect ──────────────────
     function runRedirect(countdownSeconds) {
       authBox.remove();
+
       const loadingOverlay = document.createElement("div");
       loadingOverlay.style.cssText = `
         position:fixed; top:0; left:0; width:100%; height:100%;
@@ -308,7 +301,7 @@
           const updateRes  = await fetch("https://rm.rama-modz.workers.dev/");
           const updateText = await updateRes.text();
           if (updateText.includes("GitHub Updated")) hasUpdate = true;
-        } catch { }
+        } catch { /* silent */ }
 
         const checkText = document.getElementById("rama-check-text");
         checkText.innerHTML = hasUpdate
@@ -318,10 +311,11 @@
         setTimeout(async () => {
           loadingOverlay.remove();
           try {
-            const redirectRes = await fetch(CONFIG.r + "&t=" + Date.now());
+            const redirectRes = await fetch(CONFIG.r + "?t=" + Date.now());
             const redirectUrl = (await redirectRes.text()).trim();
 
             if (!redirectUrl.startsWith("http")) return;
+
             const DASH_TOTAL       = 597;
             const countdownOverlay = document.createElement("div");
             countdownOverlay.style.cssText = `
@@ -407,7 +401,8 @@
       }, 5000);
     }
 
-    loginBtn.addEventListener("click", async () => {
+    // ── Event: Tombol Login (validasi key manual) ─────────────────────────────
+    loginBtn.addEventListener("click", () => {
       const inputKey = keyInput.value.trim();
 
       if (!inputKey) {
@@ -415,11 +410,13 @@
         return;
       }
 
-      statusEl.innerHTML = "<span style='color:#00ffcc; text-shadow:0 0 8px rgba(0,255,204,0.3);'>CONNECTING SERVER...</span>";
-      loginBtn.disabled = telegramBtn.disabled = true;
+      // Validasi key lokal (case-insensitive)
+      const isValid = VALID_KEYS.some(k => k.toLowerCase() === inputKey.toLowerCase());
 
-      if (masterKey !== "" && inputKey === masterKey) {
-        statusEl.innerHTML = "<span style='color:#00ffcc;'>KEY VALIDATED! ✓</span>";
+      if (isValid) {
+        statusEl.innerHTML        = "<span style='color:#00ffcc;'>KEY VALIDATED! ✓</span>";
+        loginBtn.disabled         = true;
+        telegramBtn.disabled      = true;
 
         setTimeout(() => {
           authBox.innerHTML = `
@@ -442,7 +439,6 @@
 
       } else {
         statusEl.innerHTML = "<span style='color:#ff4444;'>INVALID LICENSE KEY!</span>";
-        loginBtn.disabled = telegramBtn.disabled = false;
       }
     });
 
