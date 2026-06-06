@@ -1,1 +1,450 @@
-function _0x2b83(_0x37454f,_0x4a5af3){const _0xe41759=_0xe417();return _0x2b83=function(_0x2b83fa,_0x25e7d9){_0x2b83fa=_0x2b83fa-0x1c7;let _0x2ebd15=_0xe41759[_0x2b83fa];return _0x2ebd15;},_0x2b83(_0x37454f,_0x4a5af3);}function _0xe417(){const _0x44bb0a=['blur','0\x200\x2010px\x20rgba(0,255,204,0.25),\x20inset\x200\x202px\x204px\x20rgba(0,0,0,0.5)','rgba(0,255,204,0.3)','1px\x20solid\x20rgba(0,255,204,0.4)','strokeDashoffset','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-KEY/main/key.txt','\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20rama-lightning-glow\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20\x20\x20{\x20box-shadow:\x200\x200\x205px\x20#00ffcc,\x200\x200\x2010px\x20#00ffcc,\x20inset\x200\x200\x205px\x20rgba(0,255,204,0.2);\x20\x20border-color:\x20#00ffcc;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2025%\x20\x20{\x20box-shadow:\x200\x200\x2015px\x20#00e6b8,\x200\x200\x2025px\x20#00ffcc,\x20inset\x200\x200\x2010px\x20rgba(0,255,204,0.4);\x20border-color:\x20#00e6b8;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2030%\x20\x20{\x20box-shadow:\x200\x200\x208px\x20#00ffcc,\x20\x200\x200\x2012px\x20#00ffcc,\x20inset\x200\x200\x206px\x20rgba(0,255,204,0.3);\x20\x20border-color:\x20#00ffcc;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2035%\x20\x20{\x20box-shadow:\x200\x200\x2025px\x20#00ffff,\x200\x200\x2040px\x20#00ffcc,\x20inset\x200\x200\x2015px\x20rgba(0,255,204,0.5);\x20border-color:\x20#00ffff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2070%\x20\x20{\x20box-shadow:\x200\x200\x2015px\x20#00e6b8,\x200\x200\x2025px\x20#00ffcc,\x20inset\x200\x200\x2010px\x20rgba(0,255,204,0.4);\x20border-color:\x20#00e6b8;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2073%\x20\x20{\x20box-shadow:\x200\x200\x205px\x20#00ffcc,\x20\x200\x200\x2010px\x20#00ffcc,\x20inset\x200\x200\x205px\x20rgba(0,255,204,0.2);\x20\x20border-color:\x20#00ffcc;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20box-shadow:\x200\x200\x205px\x20#00ffcc,\x20\x200\x200\x2010px\x20#00ffcc,\x20inset\x200\x200\x205px\x20rgba(0,255,204,0.2);\x20\x20border-color:\x20#00ffcc;\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20rama-spin\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20\x20\x20{\x20transform:\x20rotate(0deg);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20rotate(360deg);\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20rama-fire-spin\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20\x20\x20{\x20transform:\x20translate(-50%,\x20-50%)\x20rotate(0deg);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20translate(-50%,\x20-50%)\x20rotate(360deg);\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20rama-rainbow-glow\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20\x20\x20{\x20color:\x20#ff0000;\x20text-shadow:\x200\x200\x206px\x20#ff0000;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2016%\x20\x20{\x20color:\x20#ff7f00;\x20text-shadow:\x200\x200\x206px\x20#ff7f00;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2033%\x20\x20{\x20color:\x20#ffff00;\x20text-shadow:\x200\x200\x206px\x20#ffff00;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2050%\x20\x20{\x20color:\x20#00ff00;\x20text-shadow:\x200\x200\x206px\x20#00ff00;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2066%\x20\x20{\x20color:\x20#00ffff;\x20text-shadow:\x200\x200\x206px\x20#00ffff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2083%\x20\x20{\x20color:\x20#0000ff;\x20text-shadow:\x200\x200\x206px\x20#0000ff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20color:\x20#8b00ff;\x20text-shadow:\x200\x200\x206px\x20#8b00ff;\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20.rama-clickable-credit\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20bottom:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20right:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2018px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Courier\x20New\x27,\x20Courier,\x20monospace;\x0a\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:\x201px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x202147483647;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-decoration:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:\x20transparent;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20rama-rainbow-glow\x203s\x20linear\x20infinite;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20.rama-mode-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(0,255,204,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:\x201.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-transform:\x20uppercase;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-fast\x20\x20\x20{\x20background:\x20linear-gradient(90deg,\x20rgba(0,255,150,0.1),\x20rgba(0,255,150,0.2));\x20border-color:\x20#00ff96;\x20box-shadow:\x200\x200\x208px\x20rgba(0,255,150,0.2);\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-fast:hover\x20\x20\x20{\x20background:\x20#00ff96;\x20color:\x20#030712;\x20box-shadow:\x200\x200\x2015px\x20#00ff96;\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-secure\x20{\x20background:\x20linear-gradient(90deg,\x20rgba(255,170,0,0.1),\x20rgba(255,170,0,0.2));\x20border-color:\x20#ffaa00;\x20box-shadow:\x200\x200\x208px\x20rgba(255,170,0,0.2);\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-secure:hover\x20{\x20background:\x20#ffaa00;\x20color:\x20#030712;\x20box-shadow:\x200\x200\x2015px\x20#ffaa00;\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-safe\x20\x20\x20{\x20background:\x20linear-gradient(90deg,\x20rgba(0,204,255,0.1),\x20rgba(0,204,255,0.2));\x20border-color:\x20#00ccff;\x20box-shadow:\x200\x200\x208px\x20rgba(0,204,255,0.2);\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-safe:hover\x20\x20\x20{\x20background:\x20#00ccff;\x20color:\x20#030712;\x20box-shadow:\x200\x200\x2015px\x20#00ccff;\x20}\x0a\x20\x20\x20\x20','\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-linecap=\x22round\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20style=\x22filter:drop-shadow(0\x200\x206px\x20#00ffcc);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:stroke-dashoffset\x201s\x20linear;\x22></circle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22countdown-text\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x20top:50%;\x20left:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:translate(-50%,-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:54px;\x20font-weight:900;\x20color:#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:0\x200\x2020px\x20#00ffcc,\x200\x200\x2030px\x20rgba(0,255,204,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:4;\x22>','text-align:center;box-shadow:0\x2020px\x2050px\x20rgba(0,0,0,0.6);','focus','cssText','head','Invalid\x20audio\x20URL\x20in\x20music.txt,\x20using\x20fallback.','boxShadow','innerHTML','<span\x20style=\x27color:#ff4444;\x27>INVALID\x20LICENSE\x20KEY!</span>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:fixed;\x20top:0;\x20left:0;\x20width:100%;\x20height:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(3,7,18,0.05);\x20backdrop-filter:blur(1px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-webkit-backdrop-filter:blur(1px);\x20z-index:2147483647;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:flex;\x20align-items:center;\x20justify-content:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:system-ui,-apple-system,sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','4385367rUPqtO','\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-dashoffset=\x22','-webkit-backdrop-filter:blur(12px);color:#fff;padding:30px\x2025px;','2CGEOEF','\x0a\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-music-btn\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;top:15px;right:15px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(255,255,255,0.05);border:1px\x20solid\x20rgba(0,255,204,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:#ff4444;border-radius:50%;width:32px;height:32px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:pointer;font-size:14px;display:flex;align-items:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20justify-content:center;box-shadow:0\x200\x208px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20transition:all\x200.3s\x20ease;z-index:10;\x22>🔇</button>\x0a\x0a\x20\x20\x20\x20\x20\x20<h3\x20style=\x22margin:0\x200\x206px\x200;color:#00ffcc;font-size:20px;letter-spacing:1.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:800;text-shadow:0\x200\x2012px\x20rgba(0,255,204,0.5);text-transform:uppercase;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','catch','location','trim','5387697eaRaTb','querySelector','RAMA','rama-clickable-credit','body','#ff4444','RAMA\x20MODZ','now','35021662PwemnC','log','width','rama-login-btn','REDIRECT\x20ERROR!','rama-music-btn','&t=','play','innerWidth','http','rama-key-input','rama-btn-secure','#00ffcc','2147483647','match','Playback\x20failed:','_blank','#progress','div','https://rm.rama-modz.workers.dev/','animation:\x20rama-lightning-glow\x203s\x20linear\x20infinite;','12rgbzyP','Data\x20loading\x20failed:','position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);','color','52cjyMUg','paused','getElementById','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt','rama-btn-safe','text','then','4664148SpvhuL','remove','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3','createElement','inset\x200\x202px\x204px\x20rgba(0,0,0,0.5)','https://t.me/ramachanel','border:2px\x20solid\x20#00ffcc;width:300px;box-sizing:border-box;','includes','click','appendChild','87736FSNRPg','style','<span\x20style=\x27color:#00ffcc;\x27>Link\x20Updated\x20Successfully!\x20✓</span>','GitHub\x20Updated','%cAccess\x20Denied\x20-\x20Bookmark\x20Required','0\x200\x2010px\x20rgba(0,255,204,0.4)','loop','rama-floating-credit','href','0\x200\x208px\x20rgba(0,0,0,0.3)','maxWidth','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20background:rgba(6,10,23,0.95);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:35px\x2030px;\x20border-radius:16px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:1px\x20solid\x20#00ffcc;\x20width:290px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20rama-lightning-glow\x203s\x20linear\x20infinite;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22width:45px;\x20height:45px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:4px\x20solid\x20rgba(0,255,204,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-top:4px\x20solid\x20#00ffcc;\x20border-radius:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:0\x20auto\x2020px\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:rama-spin\x200.8s\x20linear\x20infinite;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x200\x2015px\x20rgba(0,255,204,0.2);\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20id=\x22rama-check-text\x22\x20style=\x22color:#00ffcc;\x20font-size:15px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:700;\x20margin:0;\x20letter-spacing:1.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:0\x200\x208px\x20rgba(0,255,204,0.3);\x22>CHECKING\x20UPDATE...</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:fixed;\x20top:0;\x20left:0;\x20width:100%;\x20height:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(3,7,18,0.85);\x20backdrop-filter:blur(8px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20-webkit-backdrop-filter:blur(8px);\x20z-index:2147483647;\x0a\x20\x20\x20\x20\x20\x20\x20\x20display:flex;\x20align-items:center;\x20justify-content:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-family:system-ui,-apple-system,sans-serif;\x0a\x20\x20\x20\x20\x20\x20','16qifvLe','open','Failed\x20to\x20fetch\x20music\x20URL,\x20using\x20fallback:','filter','textContent','<span\x20style=\x27color:#00ffcc;\x20text-shadow:0\x200\x208px\x20rgba(0,255,204,0.3);\x27>CONNECTING\x20SERVER...</span>','replace','value','rama-telegram-btn','rama-status','map','<span\x20style=\x27color:#00ffcc;\x27>KEY\x20VALIDATED!\x20✓</span>','font-family:system-ui,-apple-system,BlinkMacSystemFont,\x22Segoe\x20UI\x22,Roboto,sans-serif;','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20style=\x22margin:0\x200\x208px\x200;color:#00ffcc;font-size:18px;letter-spacing:1px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:800;text-shadow:0\x200\x2012px\x20rgba(0,255,204,0.5);\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20SYSTEM\x20MODE\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:0\x200\x2022px\x200;color:#64748b;font-size:10px;letter-spacing:1.5px;font-weight:600;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20CHOOSE\x20SECURITY\x20BYPASS\x20METHOD\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-btn-fast\x22\x20\x20\x20class=\x22rama-mode-btn\x20rama-btn-fast\x22>🔹\x20FAST\x20MODE\x20(BAN\x20RISK)\x20🔹</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-btn-secure\x22\x20class=\x22rama-mode-btn\x20rama-btn-secure\x22>🔹\x20SECURE\x20MODE\x20(MIDDLE)\x20🔹</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-btn-safe\x22\x20\x20\x20class=\x22rama-mode-btn\x20rama-btn-safe\x22>🔹\x20SAFE\x20MODE\x20(FULL\x20SAFE)\x20🔹</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','1501789eJMyol','className','split','rama-btn-fast','\x20TEAM\x0a\x20\x20\x20\x20\x20\x20</h3>\x0a\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:0\x200\x2020px\x200;color:#64748b;font-size:11px;letter-spacing:2px;font-weight:600;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20ENTER\x20LICENSE\x20KEY\x0a\x20\x20\x20\x20\x20\x20</p>\x0a\x0a\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22rama-key-input\x22\x20placeholder=\x22ENTER\x20KEY\x20HERE\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:100%;padding:12px;margin-bottom:16px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border:1px\x20solid\x20rgba(0,255,204,0.4);border-radius:8px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(7,11,25,0.6);color:#fff;text-align:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:border-box;font-size:13px;font-weight:600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:1px;outline:none;transition:all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:inset\x200\x202px\x204px\x20rgba(0,0,0,0.5);\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-login-btn\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:100%;background:#00ffcc;color:#030712;border:none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:12px;border-radius:8px;font-weight:700;cursor:pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:14px;letter-spacing:0.5px;margin-bottom:12px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x204px\x2012px\x20rgba(0,255,204,0.3);transition:all\x200.2s\x20ease;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20VERIFY\x0a\x20\x20\x20\x20\x20\x20</button>\x0a\x0a\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-telegram-btn\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:100%;background:#229ED9;color:#fff;border:none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:12px;border-radius:8px;font-weight:700;cursor:pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:14px;letter-spacing:0.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x204px\x2012px\x20rgba(34,158,217,0.25);\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20TELEGRAM\x20RAMA\x20MODZ\x0a\x20\x20\x20\x20\x20\x20</button>\x0a\x0a\x20\x20\x20\x20\x20\x20<div\x20id=\x22rama-status\x22\x20style=\x22margin-top:16px;font-size:11px;font-weight:700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:#64748b;letter-spacing:1.5px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20RAMA\x20MODZ\x20TEAM\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','1650IqSXVE','10tdDhRs','1px\x20solid\x20#00ffcc','pause','188169SYKVkS','rama-auth-box','addEventListener','disabled','startsWith','border','undefined','error','borderColor'];_0xe417=function(){return _0x44bb0a;};return _0xe417();}(function(_0x21b172,_0x495e71){const _0x302e21=_0x2b83,_0x58ddf3=_0x21b172();while(!![]){try{const _0x1ad41b=-parseInt(_0x302e21(0x233))/0x1*(-parseInt(_0x302e21(0x1e1))/0x2)+-parseInt(_0x302e21(0x23c))/0x3*(-parseInt(_0x302e21(0x207))/0x4)+parseInt(_0x302e21(0x239))/0x5*(parseInt(_0x302e21(0x20e))/0x6)+parseInt(_0x302e21(0x1e6))/0x7*(parseInt(_0x302e21(0x225))/0x8)+-parseInt(_0x302e21(0x1de))/0x9+parseInt(_0x302e21(0x238))/0xa*(-parseInt(_0x302e21(0x218))/0xb)+-parseInt(_0x302e21(0x203))/0xc*(parseInt(_0x302e21(0x1ee))/0xd);if(_0x1ad41b===_0x495e71)break;else _0x58ddf3['push'](_0x58ddf3['shift']());}catch(_0xdbc90b){_0x58ddf3['push'](_0x58ddf3['shift']());}}}(_0xe417,0xdf231),(function(){'use strict';const _0x2a9c06=_0x2b83;let _0x3b703c=-0x1;if(typeof window['RAMA_BOOKMARK_LOAD']!==_0x2a9c06(0x1ca))_0x3b703c=0x0;else for(let _0x518056=0x1;_0x518056<=0x1f4;_0x518056++){if(typeof window[_0x2a9c06(0x1e8)+_0x518056+'_BOOKMARK_LOAD']!==_0x2a9c06(0x1ca)){_0x3b703c=_0x518056;break;}}if(_0x3b703c===-0x1){console[_0x2a9c06(0x1ef)](_0x2a9c06(0x21c),'color:#ff0000;font-size:15px;font-weight:bold');return;}const _0x5c445e={'r':'https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt','t':_0x2a9c06(0x20a),'m':_0x2a9c06(0x210),'n':_0x2a9c06(0x1d2),'s':_0x2a9c06(0x205)+'background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);'+_0x2a9c06(0x1e0)+'border-radius:16px;z-index:2147483647;'+_0x2a9c06(0x231)+_0x2a9c06(0x1d5)+_0x2a9c06(0x214)+_0x2a9c06(0x202)},_0xd86d36='https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3';let _0x4856be=null;(async function(){const _0x3ed8d5=_0x2a9c06;document[_0x3ed8d5(0x209)](_0x3ed8d5(0x23d))?.[_0x3ed8d5(0x20f)](),document[_0x3ed8d5(0x209)](_0x3ed8d5(0x21f))?.['remove']();let _0x1f766c=_0x3ed8d5(0x1ec),_0x5bfcb7='https://t.me/ramachanel',_0x47dd98='';try{const _0x3c3b62=await fetch(_0x5c445e['n']+_0x3ed8d5(0x1f4)+Date[_0x3ed8d5(0x1ed)]()),_0x33a3e6=await _0x3c3b62[_0x3ed8d5(0x20c)](),_0x4bd7a2=_0x33a3e6[_0x3ed8d5(0x235)](/\r?\n/)[_0x3ed8d5(0x22f)](_0x544be6=>_0x544be6['trim']())[_0x3ed8d5(0x228)](_0x1703b3=>_0x1703b3!=='');if(_0x4bd7a2[_0x3b703c]){const _0x64c710=_0x4bd7a2[_0x3b703c][_0x3ed8d5(0x1fc)](/"([^"]+)"/g);_0x64c710&&_0x64c710['length']>=0x3&&(_0x1f766c=_0x64c710[0x0][_0x3ed8d5(0x22b)](/"/g,''),_0x5bfcb7=_0x64c710[0x1][_0x3ed8d5(0x22b)](/"/g,''),_0x47dd98=_0x64c710[0x2][_0x3ed8d5(0x22b)](/"/g,''));}}catch(_0x17fdac){console[_0x3ed8d5(0x1cb)](_0x3ed8d5(0x204),_0x17fdac);}const _0x3b623b=document[_0x3ed8d5(0x211)](_0x3ed8d5(0x219));_0x3b623b[_0x3ed8d5(0x229)]=_0x3ed8d5(0x1d3),document[_0x3ed8d5(0x1d8)][_0x3ed8d5(0x217)](_0x3b623b);const _0x1a6409=document[_0x3ed8d5(0x211)]('a');_0x1a6409['id']=_0x3ed8d5(0x21f),_0x1a6409[_0x3ed8d5(0x234)]=_0x3ed8d5(0x1e9),_0x1a6409['innerText']='RAMA\x20MODZ\x20TEAM',_0x1a6409[_0x3ed8d5(0x220)]=_0x3ed8d5(0x213),_0x1a6409['target']='_blank',document[_0x3ed8d5(0x1ea)][_0x3ed8d5(0x217)](_0x1a6409);const _0x319c21=document[_0x3ed8d5(0x211)]('div');_0x319c21['id']=_0x3ed8d5(0x23d),_0x319c21[_0x3ed8d5(0x219)][_0x3ed8d5(0x1d7)]=_0x5c445e['s'],_0x319c21['innerHTML']=_0x3ed8d5(0x1e2)+_0x1f766c+_0x3ed8d5(0x237),document[_0x3ed8d5(0x1ea)][_0x3ed8d5(0x217)](_0x319c21);const _0x36ac10=document[_0x3ed8d5(0x209)](_0x3ed8d5(0x1f3)),_0x5a739b=document[_0x3ed8d5(0x209)](_0x3ed8d5(0x1f8)),_0x1700a5=document['getElementById'](_0x3ed8d5(0x1f1)),_0x48f7e0=document[_0x3ed8d5(0x209)](_0x3ed8d5(0x22d)),_0x4c6496=document['getElementById'](_0x3ed8d5(0x22e));setTimeout(()=>{const _0x2db173=_0x3ed8d5;_0x319c21[_0x2db173(0x219)]['zIndex']=_0x2db173(0x1fb),window[_0x2db173(0x1f6)]<0x258&&(_0x319c21[_0x2db173(0x219)][_0x2db173(0x1f0)]='90%',_0x319c21[_0x2db173(0x219)][_0x2db173(0x222)]='300px');},0xa);let _0x219b2b=![];_0x36ac10[_0x3ed8d5(0x23e)](_0x3ed8d5(0x216),async()=>{const _0x89bdaf=_0x3ed8d5;if(_0x219b2b)return;if(!_0x4856be){_0x219b2b=!![],_0x36ac10[_0x89bdaf(0x229)]='⏳';let _0x4ee240=_0xd86d36;try{const _0x3e4013=await fetch(_0x5c445e['m']+_0x89bdaf(0x1f4)+Date[_0x89bdaf(0x1ed)]()),_0x27b63c=(await _0x3e4013[_0x89bdaf(0x20c)]())['trim']();_0x27b63c&&_0x27b63c[_0x89bdaf(0x1c8)]('http')?_0x4ee240=_0x27b63c:console[_0x89bdaf(0x1ef)](_0x89bdaf(0x1d9));}catch(_0x53ee63){console[_0x89bdaf(0x1ef)](_0x89bdaf(0x227),_0x53ee63);}_0x4856be=new Audio(_0x4ee240),_0x4856be[_0x89bdaf(0x21e)]=!![],_0x219b2b=![];}_0x4856be[_0x89bdaf(0x208)]?_0x4856be[_0x89bdaf(0x1f5)]()[_0x89bdaf(0x20d)](()=>{const _0x5edb20=_0x89bdaf;_0x36ac10[_0x5edb20(0x229)]='🔊',_0x36ac10['style'][_0x5edb20(0x206)]=_0x5edb20(0x1fa),_0x36ac10[_0x5edb20(0x219)][_0x5edb20(0x1cc)]='#00ffcc',_0x36ac10['style']['boxShadow']=_0x5edb20(0x21d);})[_0x89bdaf(0x1e3)](_0x3a8c86=>{const _0x27ed28=_0x89bdaf;console['log'](_0x27ed28(0x1fd),_0x3a8c86),_0x36ac10[_0x27ed28(0x229)]='🔇';}):(_0x4856be[_0x89bdaf(0x23b)](),_0x36ac10[_0x89bdaf(0x229)]='🔇',_0x36ac10[_0x89bdaf(0x219)]['color']=_0x89bdaf(0x1eb),_0x36ac10[_0x89bdaf(0x219)][_0x89bdaf(0x1cc)]=_0x89bdaf(0x1cf),_0x36ac10[_0x89bdaf(0x219)]['boxShadow']=_0x89bdaf(0x221));}),_0x5a739b[_0x3ed8d5(0x23e)](_0x3ed8d5(0x1d6),()=>{const _0x1c02cf=_0x3ed8d5;_0x5a739b[_0x1c02cf(0x219)][_0x1c02cf(0x1c9)]=_0x1c02cf(0x23a),_0x5a739b[_0x1c02cf(0x219)]['boxShadow']=_0x1c02cf(0x1ce);}),_0x5a739b[_0x3ed8d5(0x23e)](_0x3ed8d5(0x1cd),()=>{const _0x242746=_0x3ed8d5;_0x5a739b[_0x242746(0x219)][_0x242746(0x1c9)]=_0x242746(0x1d0),_0x5a739b[_0x242746(0x219)][_0x242746(0x1da)]=_0x242746(0x212);}),_0x48f7e0['addEventListener']('click',()=>{const _0xfb3ce8=_0x3ed8d5;_0x5bfcb7&&_0x5bfcb7[_0xfb3ce8(0x1c8)]('http')&&window[_0xfb3ce8(0x226)](_0x5bfcb7,_0xfb3ce8(0x1fe));});function _0x2d309d(_0x5c8eb8){const _0x208cd4=_0x3ed8d5;_0x319c21[_0x208cd4(0x20f)]();const _0x48f343=document[_0x208cd4(0x211)](_0x208cd4(0x200));_0x48f343[_0x208cd4(0x219)][_0x208cd4(0x1d7)]=_0x208cd4(0x224),_0x48f343[_0x208cd4(0x1db)]=_0x208cd4(0x223),document[_0x208cd4(0x1ea)]['appendChild'](_0x48f343),setTimeout(async()=>{const _0x36d5da=_0x208cd4;let _0x22e357=![];try{const _0x15e258=await fetch(_0x36d5da(0x201)),_0x4eaf23=await _0x15e258[_0x36d5da(0x20c)]();if(_0x4eaf23[_0x36d5da(0x215)](_0x36d5da(0x21b)))_0x22e357=!![];}catch{}const _0x2067c6=document[_0x36d5da(0x209)]('rama-check-text');_0x2067c6[_0x36d5da(0x1db)]=_0x22e357?_0x36d5da(0x21a):'<span\x20style=\x27color:#ff4444;\x20text-shadow:0\x200\x208px\x20rgba(255,68,68,0.3);\x27>No\x20Update\x20Available!</span>',setTimeout(async()=>{const _0x31a563=_0x36d5da;_0x48f343[_0x31a563(0x20f)]();try{const _0x53befe=await fetch(_0x5c445e['r']+_0x31a563(0x1f4)+Date[_0x31a563(0x1ed)]()),_0x38a83c=(await _0x53befe['text']())[_0x31a563(0x1e5)]();if(!_0x38a83c['startsWith'](_0x31a563(0x1f7)))return;const _0x3d91a1=0x255,_0x388b3b=document[_0x31a563(0x211)](_0x31a563(0x200));_0x388b3b['style']['cssText']=_0x31a563(0x1dd),_0x388b3b['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:relative;\x20width:250px;\x20height:250px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:0\x20auto;\x20display:flex;\x20align-items:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:center;\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:absolute;\x20top:50%;\x20left:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:214px;\x20height:214px;\x20border-radius:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:conic-gradient(transparent\x200deg,#ff3300\x2090deg,#ffaa00\x20180deg,#00ffcc\x20270deg,transparent\x20360deg);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20filter:blur(14px);\x20opacity:0.85;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:rama-fire-spin\x201.5s\x20linear\x20infinite;\x20z-index:1;\x22></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:absolute;\x20top:50%;\x20left:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:206px;\x20height:206px;\x20border-radius:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:conic-gradient(transparent\x200deg,#ff0055\x2060deg,#ff5500\x20120deg,#ffcc00\x20240deg,transparent\x20360deg);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20filter:blur(6px);\x20opacity:0.9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:rama-fire-spin\x201s\x20linear\x20infinite\x20reverse;\x20z-index:2;\x22></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20width=\x22240\x22\x20height=\x22240\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20style=\x22transform:rotate(-90deg);\x20position:relative;\x20z-index:3;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x22120\x22\x20cy=\x22120\x22\x20r=\x2295\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20fill=\x22rgba(6,10,23,0.65)\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke=\x22rgba(0,255,204,0.1)\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-width=\x2214\x22></circle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20id=\x22progress\x22\x20cx=\x22120\x22\x20cy=\x22120\x22\x20r=\x2295\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20fill=\x22none\x22\x20stroke=\x22#00ffcc\x22\x20stroke-width=\x2214\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-dasharray=\x22'+_0x3d91a1+_0x31a563(0x1df)+_0x3d91a1+_0x31a563(0x1d4)+_0x5c8eb8+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin-top:30px;\x20color:#00ffcc;\x20font-size:16px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:700;\x20letter-spacing:3px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:0\x200\x2012px\x20rgba(0,255,204,0.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:relative;\x20z-index:4;\x22>REDIRECTING...</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',document[_0x31a563(0x1ea)][_0x31a563(0x217)](_0x388b3b);let _0x324ac4=_0x5c8eb8;const _0x5e87ec=_0x388b3b[_0x31a563(0x1e7)](_0x31a563(0x1ff)),_0x449ed6=_0x388b3b['querySelector']('#countdown-text'),_0x1d0d40=setInterval(()=>{const _0x4c0cdb=_0x31a563;_0x324ac4--,_0x449ed6[_0x4c0cdb(0x229)]=_0x324ac4,_0x5e87ec[_0x4c0cdb(0x219)][_0x4c0cdb(0x1d1)]=_0x3d91a1*(_0x324ac4/_0x5c8eb8),_0x324ac4<=0x0&&(clearInterval(_0x1d0d40),_0x4856be&&(_0x4856be['pause'](),_0x4856be=null),_0x388b3b[_0x4c0cdb(0x20f)](),window[_0x4c0cdb(0x1e4)]['replace'](_0x38a83c));},0x3e8);}catch{alert(_0x31a563(0x1f2));}},0x5dc);},0x1388);}_0x1700a5[_0x3ed8d5(0x23e)]('click',async()=>{const _0x8fb540=_0x3ed8d5,_0x25c9c4=_0x5a739b[_0x8fb540(0x22c)]['trim']();if(!_0x25c9c4){_0x4c6496['innerHTML']='<span\x20style=\x27color:#ff4444;\x27>PLEASE\x20INPUT\x20KEY!</span>';return;}_0x4c6496[_0x8fb540(0x1db)]=_0x8fb540(0x22a),_0x1700a5[_0x8fb540(0x1c7)]=_0x48f7e0[_0x8fb540(0x1c7)]=!![],_0x47dd98!==''&&_0x25c9c4===_0x47dd98?(_0x4c6496[_0x8fb540(0x1db)]=_0x8fb540(0x230),setTimeout(()=>{const _0x4976de=_0x8fb540;_0x319c21['innerHTML']=_0x4976de(0x232),document['getElementById'](_0x4976de(0x236))[_0x4976de(0x23e)]('click',()=>_0x2d309d(0x1e)),document['getElementById'](_0x4976de(0x1f9))[_0x4976de(0x23e)]('click',()=>_0x2d309d(0x2d)),document[_0x4976de(0x209)](_0x4976de(0x20b))[_0x4976de(0x23e)](_0x4976de(0x216),()=>_0x2d309d(0x3c));},0x320)):(_0x4c6496[_0x8fb540(0x1db)]=_0x8fb540(0x1dc),_0x1700a5[_0x8fb540(0x1c7)]=_0x48f7e0[_0x8fb540(0x1c7)]=![]);});}());}()));
+(function () {
+  "use strict";
+
+  let instanceIndex = -1;
+  if (typeof window.RAMA_BOOKMARK_LOAD !== "undefined") {
+    instanceIndex = 0;
+  } else {
+    for (let i = 1; i <= 500; i++) {
+      if (typeof window["RAMA" + i + "_BOOKMARK_LOAD"] !== "undefined") {
+        instanceIndex = i;
+        break;
+      }
+    }
+  }
+  if (instanceIndex === -1) {
+    console.log(
+      "%cAccess Denied - Bookmark Required",
+      "color:#ff0000;font-size:15px;font-weight:bold"
+    );
+    return;
+  }
+
+  const CONFIG = {
+    r: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt",
+    t: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt",
+    m: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3",
+    
+        n: "https://zxi-file-loader.ah4734536.workers.dev/?file=name.txt",
+    s: "position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);" +
+       "background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);" +
+       "-webkit-backdrop-filter:blur(12px);color:#fff;padding:30px 25px;" +
+       "border-radius:16px;z-index:2147483647;" +
+       'font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;' +
+       "text-align:center;box-shadow:0 20px 50px rgba(0,0,0,0.6);" +
+       "border:2px solid #00ffcc;width:300px;box-sizing:border-box;" +
+       "animation: rama-lightning-glow 3s linear infinite;",
+  };
+
+  const FALLBACK_MUSIC_URL = "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3";
+  let audioPlayer = null;
+
+
+  (async function () {
+
+    document.getElementById("rama-auth-box")?.remove();
+    document.getElementById("rama-floating-credit")?.remove();
+
+
+    let titleName    = "RAMA MODZ";
+    let telegramLink = "https://t.me/ramachanel";
+    let masterKey    = "";
+    try {
+      const nameRes  = await fetch(CONFIG.n + "&t=" + Date.now());
+      const nameText = await nameRes.text();
+      const lines    = nameText.split(/\r?\n/).map(l => l.trim()).filter(l => l !== "");
+      if (lines[instanceIndex]) {
+        const parts = lines[instanceIndex].match(/"([^"]+)"/g);
+        if (parts && parts.length >= 3) {
+          titleName    = parts[0].replace(/"/g, "");
+          telegramLink = parts[1].replace(/"/g, "");
+          masterKey    = parts[2].replace(/"/g, "");
+        }
+      }
+    } catch (err) {
+      console.error("Data loading failed:", err);
+    }
+
+
+    const styleEl = document.createElement("style");
+    styleEl.textContent = `
+      @keyframes rama-lightning-glow {
+        0%   { box-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2);  border-color: #00ffcc; }
+        25%  { box-shadow: 0 0 15px #00e6b8, 0 0 25px #00ffcc, inset 0 0 10px rgba(0,255,204,0.4); border-color: #00e6b8; }
+        30%  { box-shadow: 0 0 8px #00ffcc,  0 0 12px #00ffcc, inset 0 0 6px rgba(0,255,204,0.3);  border-color: #00ffcc; }
+        35%  { box-shadow: 0 0 25px #00ffff, 0 0 40px #00ffcc, inset 0 0 15px rgba(0,255,204,0.5); border-color: #00ffff; }
+        70%  { box-shadow: 0 0 15px #00e6b8, 0 0 25px #00ffcc, inset 0 0 10px rgba(0,255,204,0.4); border-color: #00e6b8; }
+        73%  { box-shadow: 0 0 5px #00ffcc,  0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2);  border-color: #00ffcc; }
+        100% { box-shadow: 0 0 5px #00ffcc,  0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2);  border-color: #00ffcc; }
+      }
+      @keyframes rama-spin {
+        0%   { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes rama-fire-spin {
+        0%   { transform: translate(-50%, -50%) rotate(0deg); }
+        100% { transform: translate(-50%, -50%) rotate(360deg); }
+      }
+      @keyframes rama-rainbow-glow {
+        0%   { color: #ff0000; text-shadow: 0 0 6px #ff0000; }
+        16%  { color: #ff7f00; text-shadow: 0 0 6px #ff7f00; }
+        33%  { color: #ffff00; text-shadow: 0 0 6px #ffff00; }
+        50%  { color: #00ff00; text-shadow: 0 0 6px #00ff00; }
+        66%  { color: #00ffff; text-shadow: 0 0 6px #00ffff; }
+        83%  { color: #0000ff; text-shadow: 0 0 6px #0000ff; }
+        100% { color: #8b00ff; text-shadow: 0 0 6px #8b00ff; }
+      }
+
+      .rama-clickable-credit {
+        position: fixed;
+        bottom: 14px;
+        right: 20px;
+        font-size: 18px;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+        letter-spacing: 1px;
+        z-index: 2147483647;
+        text-decoration: none;
+        cursor: pointer;
+        background: transparent;
+        border: none;
+        padding: 0;
+        margin: 0;
+        animation: rama-rainbow-glow 3s linear infinite;
+      }
+
+      .rama-mode-btn {
+        width: 100%;
+        border: 1px solid rgba(0,255,204,0.3);
+        padding: 12px;
+        border-radius: 8px;
+        font-weight: 700;
+        cursor: pointer;
+        font-size: 14px;
+        letter-spacing: 1.5px;
+        margin-bottom: 12px;
+        color: #fff;
+        transition: all 0.3s ease;
+        text-transform: uppercase;
+      }
+      .rama-btn-fast   { background: linear-gradient(90deg, rgba(0,255,150,0.1), rgba(0,255,150,0.2)); border-color: #00ff96; box-shadow: 0 0 8px rgba(0,255,150,0.2); }
+      .rama-btn-fast:hover   { background: #00ff96; color: #030712; box-shadow: 0 0 15px #00ff96; }
+      .rama-btn-secure { background: linear-gradient(90deg, rgba(255,170,0,0.1), rgba(255,170,0,0.2)); border-color: #ffaa00; box-shadow: 0 0 8px rgba(255,170,0,0.2); }
+      .rama-btn-secure:hover { background: #ffaa00; color: #030712; box-shadow: 0 0 15px #ffaa00; }
+      .rama-btn-safe   { background: linear-gradient(90deg, rgba(0,204,255,0.1), rgba(0,204,255,0.2)); border-color: #00ccff; box-shadow: 0 0 8px rgba(0,204,255,0.2); }
+      .rama-btn-safe:hover   { background: #00ccff; color: #030712; box-shadow: 0 0 15px #00ccff; }
+    `;
+    document.head.appendChild(styleEl);
+
+
+    const creditLink     = document.createElement("a");
+    creditLink.id        = "rama-floating-credit";
+    creditLink.className = "rama-clickable-credit";
+    creditLink.innerText = "RAMA MODZ TEAM";
+    creditLink.href      = "https://t.me/ramachanel";
+    creditLink.target    = "_blank";
+    document.body.appendChild(creditLink);
+
+
+    const authBox         = document.createElement("div");
+    authBox.id            = "rama-auth-box";
+    authBox.style.cssText = CONFIG.s;
+    authBox.innerHTML     = `
+      <button id="rama-music-btn" style="
+        position:absolute;top:15px;right:15px;
+        background:rgba(255,255,255,0.05);border:1px solid rgba(0,255,204,0.3);
+        color:#ff4444;border-radius:50%;width:32px;height:32px;
+        cursor:pointer;font-size:14px;display:flex;align-items:center;
+        justify-content:center;box-shadow:0 0 8px rgba(0,0,0,0.3);
+        transition:all 0.3s ease;z-index:10;">🔇</button>
+
+      <h3 style="margin:0 0 6px 0;color:#00ffcc;font-size:20px;letter-spacing:1.5px;
+                 font-weight:800;text-shadow:0 0 12px rgba(0,255,204,0.5);text-transform:uppercase;">
+        ${titleName} TEAM
+      </h3>
+      <p style="margin:0 0 20px 0;color:#64748b;font-size:11px;letter-spacing:2px;font-weight:600;">
+        ENTER LICENSE KEY
+      </p>
+
+      <input type="text" id="rama-key-input" placeholder="ENTER KEY HERE" style="
+        width:100%;padding:12px;margin-bottom:16px;
+        border:1px solid rgba(0,255,204,0.4);border-radius:8px;
+        background:rgba(7,11,25,0.6);color:#fff;text-align:center;
+        box-sizing:border-box;font-size:13px;font-weight:600;
+        letter-spacing:1px;outline:none;transition:all 0.3s ease;
+        box-shadow:inset 0 2px 4px rgba(0,0,0,0.5);">
+
+      <button id="rama-login-btn" style="
+        width:100%;background:#00ffcc;color:#030712;border:none;
+        padding:12px;border-radius:8px;font-weight:700;cursor:pointer;
+        font-size:14px;letter-spacing:0.5px;margin-bottom:12px;
+        box-shadow:0 4px 12px rgba(0,255,204,0.3);transition:all 0.2s ease;">
+        VERIFY
+      </button>
+
+      <button id="rama-telegram-btn" style="
+        width:100%;background:#229ED9;color:#fff;border:none;
+        padding:12px;border-radius:8px;font-weight:700;cursor:pointer;
+        font-size:14px;letter-spacing:0.5px;
+        box-shadow:0 4px 12px rgba(34,158,217,0.25);">
+        TELEGRAM RAMA MODZ
+      </button>
+
+      <div id="rama-status" style="margin-top:16px;font-size:11px;font-weight:700;
+                                   color:#64748b;letter-spacing:1.5px;">
+        RAMA MODZ TEAM
+      </div>
+    `;
+    document.body.appendChild(authBox);
+
+    const musicBtn    = document.getElementById("rama-music-btn");
+    const keyInput    = document.getElementById("rama-key-input");
+    const loginBtn    = document.getElementById("rama-login-btn");
+    const telegramBtn = document.getElementById("rama-telegram-btn");
+    const statusEl    = document.getElementById("rama-status");
+
+    setTimeout(() => {
+      authBox.style.zIndex = "2147483647";
+      if (window.innerWidth < 600) {
+        authBox.style.width    = "90%";
+        authBox.style.maxWidth = "300px";
+      }
+    }, 10);
+
+
+    let musicLoading = false;
+    musicBtn.addEventListener("click", async () => {
+      if (musicLoading) return; // cegah double-click saat loading
+
+      if (!audioPlayer) {
+        musicLoading         = true;
+        musicBtn.textContent = "⏳";
+        let resolvedUrl      = FALLBACK_MUSIC_URL; // default fallback
+        try {
+          const res      = await fetch(CONFIG.m + "&t=" + Date.now());
+          const audioUrl = (await res.text()).trim();
+          if (audioUrl && audioUrl.startsWith("http")) {
+            resolvedUrl = audioUrl;
+          } else {
+            console.log("Invalid audio URL in music.txt, using fallback.");
+          }
+        } catch (err) {
+          console.log("Failed to fetch music URL, using fallback:", err);
+        }
+        audioPlayer      = new Audio(resolvedUrl);
+        audioPlayer.loop = true;
+        musicLoading     = false;
+      }
+
+      // Toggle play / pause
+      if (audioPlayer.paused) {
+        audioPlayer.play()
+          .then(() => {
+            musicBtn.textContent       = "🔊";
+            musicBtn.style.color       = "#00ffcc";
+            musicBtn.style.borderColor = "#00ffcc";
+            musicBtn.style.boxShadow   = "0 0 10px rgba(0,255,204,0.4)";
+          })
+          .catch(err => {
+            console.log("Playback failed:", err);
+            musicBtn.textContent = "🔇";
+          });
+      } else {
+        audioPlayer.pause();
+        musicBtn.textContent       = "🔇";
+        musicBtn.style.color       = "#ff4444";
+        musicBtn.style.borderColor = "rgba(0,255,204,0.3)";
+        musicBtn.style.boxShadow   = "0 0 8px rgba(0,0,0,0.3)";
+      }
+    });
+
+    keyInput.addEventListener("focus", () => {
+      keyInput.style.border    = "1px solid #00ffcc";
+      keyInput.style.boxShadow = "0 0 10px rgba(0,255,204,0.25), inset 0 2px 4px rgba(0,0,0,0.5)";
+    });
+    keyInput.addEventListener("blur", () => {
+      keyInput.style.border    = "1px solid rgba(0,255,204,0.4)";
+      keyInput.style.boxShadow = "inset 0 2px 4px rgba(0,0,0,0.5)";
+    });
+    
+    telegramBtn.addEventListener("click", () => {
+      if (telegramLink && telegramLink.startsWith("http")) {
+        window.open(telegramLink, "_blank");
+      }
+    });
+
+
+    function runRedirect(countdownSeconds) {
+      authBox.remove();
+      const loadingOverlay = document.createElement("div");
+      loadingOverlay.style.cssText = `
+        position:fixed; top:0; left:0; width:100%; height:100%;
+        background:rgba(3,7,18,0.85); backdrop-filter:blur(8px);
+        -webkit-backdrop-filter:blur(8px); z-index:2147483647;
+        display:flex; align-items:center; justify-content:center;
+        font-family:system-ui,-apple-system,sans-serif;
+      `;
+      loadingOverlay.innerHTML = `
+        <div style="text-align:center; background:rgba(6,10,23,0.95);
+                    padding:35px 30px; border-radius:16px;
+                    border:1px solid #00ffcc; width:290px;
+                    animation: rama-lightning-glow 3s linear infinite;">
+          <div style="width:45px; height:45px;
+                      border:4px solid rgba(0,255,204,0.1);
+                      border-top:4px solid #00ffcc; border-radius:50%;
+                      margin:0 auto 20px auto;
+                      animation:rama-spin 0.8s linear infinite;
+                      box-shadow:0 0 15px rgba(0,255,204,0.2);"></div>
+          <p id="rama-check-text" style="color:#00ffcc; font-size:15px;
+             font-weight:700; margin:0; letter-spacing:1.5px;
+             text-shadow:0 0 8px rgba(0,255,204,0.3);">CHECKING UPDATE...</p>
+        </div>
+      `;
+      document.body.appendChild(loadingOverlay);
+
+      setTimeout(async () => {
+        let hasUpdate = false;
+        try {
+          const updateRes  = await fetch("https://rm.rama-modz.workers.dev/");
+          const updateText = await updateRes.text();
+          if (updateText.includes("GitHub Updated")) hasUpdate = true;
+        } catch { }
+
+        const checkText = document.getElementById("rama-check-text");
+        checkText.innerHTML = hasUpdate
+          ? "<span style='color:#00ffcc;'>Link Updated Successfully! ✓</span>"
+          : "<span style='color:#ff4444; text-shadow:0 0 8px rgba(255,68,68,0.3);'>No Update Available!</span>";
+
+        setTimeout(async () => {
+          loadingOverlay.remove();
+          try {
+            const redirectRes = await fetch(CONFIG.r + "&t=" + Date.now());
+            const redirectUrl = (await redirectRes.text()).trim();
+
+            if (!redirectUrl.startsWith("http")) return;
+            const DASH_TOTAL       = 597;
+            const countdownOverlay = document.createElement("div");
+            countdownOverlay.style.cssText = `
+              position:fixed; top:0; left:0; width:100%; height:100%;
+              background:rgba(3,7,18,0.05); backdrop-filter:blur(1px);
+              -webkit-backdrop-filter:blur(1px); z-index:2147483647;
+              display:flex; align-items:center; justify-content:center;
+              font-family:system-ui,-apple-system,sans-serif;
+            `;
+            countdownOverlay.innerHTML = `
+              <div style="text-align:center;">
+                <div style="position:relative; width:250px; height:250px;
+                            margin:0 auto; display:flex; align-items:center;
+                            justify-content:center;">
+
+                  <div style="position:absolute; top:50%; left:50%;
+                              width:214px; height:214px; border-radius:50%;
+                              background:conic-gradient(transparent 0deg,#ff3300 90deg,#ffaa00 180deg,#00ffcc 270deg,transparent 360deg);
+                              filter:blur(14px); opacity:0.85;
+                              animation:rama-fire-spin 1.5s linear infinite; z-index:1;"></div>
+
+                  <div style="position:absolute; top:50%; left:50%;
+                              width:206px; height:206px; border-radius:50%;
+                              background:conic-gradient(transparent 0deg,#ff0055 60deg,#ff5500 120deg,#ffcc00 240deg,transparent 360deg);
+                              filter:blur(6px); opacity:0.9;
+                              animation:rama-fire-spin 1s linear infinite reverse; z-index:2;"></div>
+
+                  <svg width="240" height="240"
+                       style="transform:rotate(-90deg); position:relative; z-index:3;">
+                    <circle cx="120" cy="120" r="95"
+                            fill="rgba(6,10,23,0.65)"
+                            stroke="rgba(0,255,204,0.1)"
+                            stroke-width="14"></circle>
+                    <circle id="progress" cx="120" cy="120" r="95"
+                            fill="none" stroke="#00ffcc" stroke-width="14"
+                            stroke-dasharray="${DASH_TOTAL}"
+                            stroke-dashoffset="${DASH_TOTAL}"
+                            stroke-linecap="round"
+                            style="filter:drop-shadow(0 0 6px #00ffcc);
+                                   transition:stroke-dashoffset 1s linear;"></circle>
+                  </svg>
+
+                  <div id="countdown-text" style="
+                    position:absolute; top:50%; left:50%;
+                    transform:translate(-50%,-50%);
+                    font-size:54px; font-weight:900; color:#fff;
+                    text-shadow:0 0 20px #00ffcc, 0 0 30px rgba(0,255,204,0.3);
+                    z-index:4;">${countdownSeconds}</div>
+                </div>
+
+                <p style="margin-top:30px; color:#00ffcc; font-size:16px;
+                           font-weight:700; letter-spacing:3px;
+                           text-shadow:0 0 12px rgba(0,255,204,0.4);
+                           position:relative; z-index:4;">REDIRECTING...</p>
+              </div>
+            `;
+            document.body.appendChild(countdownOverlay);
+
+            let remaining        = countdownSeconds;
+            const progressCircle = countdownOverlay.querySelector("#progress");
+            const countdownText  = countdownOverlay.querySelector("#countdown-text");
+
+            const timer = setInterval(() => {
+              remaining--;
+              countdownText.textContent             = remaining;
+              progressCircle.style.strokeDashoffset = DASH_TOTAL * (remaining / countdownSeconds);
+
+              if (remaining <= 0) {
+                clearInterval(timer);
+                if (audioPlayer) {
+                  audioPlayer.pause();
+                  audioPlayer = null;
+                }
+                countdownOverlay.remove();
+                window.location.replace(redirectUrl);
+              }
+            }, 1000);
+
+          } catch {
+            alert("REDIRECT ERROR!");
+          }
+        }, 1500);
+      }, 5000);
+    }
+
+    loginBtn.addEventListener("click", async () => {
+      const inputKey = keyInput.value.trim();
+
+      if (!inputKey) {
+        statusEl.innerHTML = "<span style='color:#ff4444;'>PLEASE INPUT KEY!</span>";
+        return;
+      }
+
+      statusEl.innerHTML = "<span style='color:#00ffcc; text-shadow:0 0 8px rgba(0,255,204,0.3);'>CONNECTING SERVER...</span>";
+      loginBtn.disabled = telegramBtn.disabled = true;
+
+      if (masterKey !== "" && inputKey === masterKey) {
+        statusEl.innerHTML = "<span style='color:#00ffcc;'>KEY VALIDATED! ✓</span>";
+
+        setTimeout(() => {
+          authBox.innerHTML = `
+            <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;letter-spacing:1px;
+                       font-weight:800;text-shadow:0 0 12px rgba(0,255,204,0.5);">
+              SYSTEM MODE
+            </h3>
+            <p style="margin:0 0 22px 0;color:#64748b;font-size:10px;letter-spacing:1.5px;font-weight:600;">
+              CHOOSE SECURITY BYPASS METHOD
+            </p>
+
+            <button id="rama-btn-fast"   class="rama-mode-btn rama-btn-fast">🔹 FAST MODE (BAN RISK) 🔹</button>
+            <button id="rama-btn-secure" class="rama-mode-btn rama-btn-secure">🔹 SECURE MODE (MIDDLE) 🔹</button>
+            <button id="rama-btn-safe"   class="rama-mode-btn rama-btn-safe">🔹 SAFE MODE (FULL SAFE) 🔹</button>
+          `;
+          document.getElementById("rama-btn-fast").addEventListener("click",   () => runRedirect(30));
+          document.getElementById("rama-btn-secure").addEventListener("click", () => runRedirect(45));
+          document.getElementById("rama-btn-safe").addEventListener("click",   () => runRedirect(60));
+        }, 800);
+
+      } else {
+        statusEl.innerHTML = "<span style='color:#ff4444;'>INVALID LICENSE KEY!</span>";
+        loginBtn.disabled = telegramBtn.disabled = false;
+      }
+    });
+
+  })();
+})();
