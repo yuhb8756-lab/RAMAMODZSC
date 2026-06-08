@@ -1,6 +1,11 @@
 (function() {
     "use strict";
+
+    // ✅ LOCAL KEY MODE - Tidak perlu koneksi server
+    // 🔑 Password lokal langsung di sini
     const LOCAL_PASSWORD = "RAMA MODZ";
+
+    // 🔍 Bookmark tracking logic (tetap sama)
     let userIndex = -1;
     if (typeof window.RAMA_BOOKMARK_LOAD !== "undefined") {
         userIndex = 0;
@@ -19,7 +24,7 @@
     }
 
     const _d = {
-    r: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt",
+        r: 'https://zxi-file-loader.ah4734536.workers.dev/?file=zxi.txt',
         t: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt",
         m: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3",
         s: 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#fff;padding:30px 25px;border-radius:16px;z-index:2147483647;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,0.6);border:2px solid #00ffcc;width:300px;box-sizing:border-box;animation: rama-lightning-glow 3s linear infinite;'
@@ -43,9 +48,11 @@
         const oldMusicBtn = document.getElementById('rama-music-btn');
         if(oldMusicBtn) oldMusicBtn.remove();
 
+        // ✅ Data lokal - tidak perlu fetch dari server
         let systemName = "RAMA MODZ";
         let userTelegram = "https://t.me/ramachanel";
-        let correctPassword = LOCAL_PASSWORD;
+        let correctPassword = LOCAL_PASSWORD; // 🔑 Password langsung dari variabel lokal
+
         // 🎨 Stylesheet
         const styleSheet = document.createElement("style");
         styleSheet.textContent = `
@@ -360,7 +367,7 @@
             }, 3500);
         }
 
-        // 🚀 Power bypass panel
+        // 🚀 PowerZx bypass panel
         function triggerPowerZxPanel() {
             box.innerHTML = `
                 <button id="rama-back-btn" style="position:absolute;top:15px;left:15px;background:none;border:none;color:#64748b;cursor:pointer;font-size:16px;font-weight:bold;">❮</button>
@@ -368,7 +375,7 @@
                 <p style="margin:0 0 20px 0;color:#64748b;font-size:10px;letter-spacing:1px;">SUPPORTED: VPLINK ONLY</p>
                 <input type="text" id="rama-bypass-input" placeholder="https://vplink.in/..." style="width:100%;padding:12px;margin-bottom:16px;border:1px solid rgba(0,255,204,0.4);border-radius:8px;background:rgba(7,11,25,0.6);color:#fff;text-align:center;box-sizing:border-box;">
                 <button id="rama-fetch-bypass-btn" style="width:100%;background:#00ffcc;color:#030712;border:none;padding:12px;border-radius:8px;font-weight:700;cursor:pointer;">START BYPASS</button>
-                <div id="rama-bypass-status" style="margin-top:16px;font-size:11px;font-weight:700;color:#64748b;">RAMA MODZ TEAM</div>
+                <div id="rama-bypass-status" style="margin-top:16px;font-size:11px;font-weight:700;color:#64748b;">READY</div>
             `;
             document.getElementById('rama-back-btn').addEventListener('click', showMainOptionsPanel);
 
@@ -418,7 +425,7 @@
             document.getElementById('rama-choice-aincrad').addEventListener('click', () => {
                 box.innerHTML = `
                     <button id="rama-back-to-main" style="position:absolute;top:15px;left:15px;background:none;border:none;color:#64748b;cursor:pointer;font-size:16px;font-weight:bold;">❮</button>
-                    <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;font-weight:800;">RAMA MODZ TEAM MODE</h3>
+                    <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;font-weight:800;">SELECT SYSTEM MODE</h3>
                     <p style="margin:0 0 22px 0;color:#64748b;font-size:10px;letter-spacing:1px;">CHOOSE SECURITY BYPASS METHOD</p>
                     <button id="rama-btn-fast" class="rama-mode-btn rama-btn-fast">FAST MODE (30s)</button>
                     <button id="rama-btn-secure" class="rama-mode-btn rama-btn-secure">SECURE MODE (45s)</button>
@@ -433,10 +440,12 @@
             document.getElementById('rama-choice-powerzx').addEventListener('click', triggerPowerZxPanel);
         }
 
+        // 🔑 LOCAL KEY VERIFICATION - Tanpa koneksi server
         loginBtn.addEventListener('click', () => {
             const inputKey = keyInput.value.trim();
             if(!inputKey) { statusDiv.innerHTML = "<span style='color:#ff4444;'>PLEASE INPUT KEY!</span>"; return; }
             
+            // ✅ Langsung cek lokal, tanpa "CONNECTING SERVER..."
             statusDiv.innerHTML = "<span style='color:#00ffcc;'>VERIFYING KEY...</span>";
             
             setTimeout(() => {
