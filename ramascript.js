@@ -1,10 +1,6 @@
 (function() {
     "use strict";
-
-    // ⚠️ আপনার রেলওয়ে থেকে জেনারেট করা ডোমেইন লিংক
-    const RAILWAY_SERVER_URL = "https://zxi-bypass-production.up.railway.app";
-
-    // 🔍 ১ থেকে ৫০০ বুকমার্ক ট্র্যাক করার অরিজিনাল লজিক
+    const LOCAL_PASSWORD = "RAMA MODZ";
     let userIndex = -1;
     if (typeof window.RAMA_BOOKMARK_LOAD !== "undefined") {
         userIndex = 0;
@@ -23,14 +19,9 @@
     }
 
     const _d = {
-        r: 'https://zxi-file-loader.ah4734536.workers.dev/?file=zxi.txt',
-    t: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt",
-    m: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3",
-        n: 'https://zxi-file-loader.ah4734536.workers.dev/?file=name.txt', 
-        
-
-
-        
+    r: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt",
+        t: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt",
+        m: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3",
         s: 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#fff;padding:30px 25px;border-radius:16px;z-index:2147483647;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,0.6);border:2px solid #00ffcc;width:300px;box-sizing:border-box;animation: rama-lightning-glow 3s linear infinite;'
     };
 
@@ -53,28 +44,9 @@
         if(oldMusicBtn) oldMusicBtn.remove();
 
         let systemName = "RAMA MODZ";
-        let userTelegram = "https://t.me/ramachanel"; 
-        let correctPassword = "";
-
-        // 📂 ক্লাউডফ্লেয়ার ওয়ার্কার থেকে ডেটা লোড লজিক
-        try {
-            const nameRes = await fetch(_d.n + '&t=' + Date.now());
-            const nameText = await nameRes.text();
-            const lines = nameText.split(/\r?\n/).map(l => l.trim()).filter(l => l !== "");
-            
-            if (lines[userIndex]) {
-                const matches = lines[userIndex].match(/"([^"]+)"/g);
-                if (matches && matches.length >= 3) {
-                    systemName = matches[0].replace(/"/g, '');      
-                    userTelegram = matches[1].replace(/"/g, '');    
-                    correctPassword = matches[2].replace(/"/g, ''); 
-                }
-            }
-        } catch(e) {
-            console.error("Data loading failed:", e);
-        }
-
-        // 🎨 অ্যাডভান্সড সিগনেচার স্টাইলশীট লোড
+        let userTelegram = "https://t.me/ramachanel";
+        let correctPassword = LOCAL_PASSWORD;
+        // 🎨 Stylesheet
         const styleSheet = document.createElement("style");
         styleSheet.textContent = `
             @keyframes rama-lightning-glow {
@@ -127,7 +99,7 @@
         `;
         document.head.appendChild(styleSheet);
 
-        // 🔗 রেইনবো ফ্লোটিং ক্রেডিট লিংক
+        // 🔗 Floating credit link
         const creditLink = document.createElement('a');
         creditLink.id = 'rama-floating-credit';
         creditLink.className = 'rama-clickable-credit';
@@ -136,14 +108,14 @@
         creditLink.target = '_blank';
         document.body.appendChild(creditLink);
 
-        // 🎵 সুন্দর ভাসমান মিউজিক বাটন (Floating Round Music Button)
+        // 🎵 Floating music button
         const musicBtn = document.createElement('button');
         musicBtn.id = 'rama-music-btn';
         musicBtn.style.cssText = 'position:fixed; bottom:15px; left:15px; background:rgba(6,10,23,0.95); border:2px solid rgba(0,255,204,0.5); color:#ff4444; border-radius:50%; width:45px; height:45px; cursor:pointer; font-size:18px; display:flex; align-items:center; justify-content:center; box-shadow:0 4px 15px rgba(0,0,0,0.5); transition:all 0.3s ease; z-index:2147483647; outline:none;';
         musicBtn.textContent = '🔇';
         document.body.appendChild(musicBtn);
 
-        // 🕋 মেইন অথেন্টিক বক্স জেনারেটর
+        // 🕋 Main auth box
         const box = document.createElement('div');
         box.id = 'rama-auth-box';
         box.style.cssText = _d.s;
@@ -158,7 +130,7 @@
         `;
         document.body.appendChild(box);
 
-        // 🎵 মিউজিক এবং জিরো-ল্যাগ স্পেকট্রাম অ্যানালাইজার সেটআপ
+        // 🎵 Music & Visualizer setup
         async function setupVisualizer() {
             if (audioContext) return;
             try {
@@ -215,7 +187,7 @@
 
         tgBtn.addEventListener('click', () => window.open(userTelegram, '_blank'));
 
-        // 🎇 ইউনিভার্সাল প্রিমিয়াম স্পেকট্রাম এনিমেশন ইঞ্জিন
+        // 🎇 Visualizer animation engine
         function startVisualizerAnimation(selectedSeconds, redirectUrl) {
             const overlay = document.createElement('div');
             overlay.style.cssText = `
@@ -277,7 +249,6 @@
                 redirectLabel.style.color = currentNeonColor;
                 redirectLabel.style.textShadow = `0 0 10px ${currentNeonColor}`;
 
-                // ⚡ ওটার মতো মেইন নিয়ন আউটলাইন কাটা জেনারেটর
                 ctx.beginPath();
                 for (let i = 0; i <= totalPoints; i++) {
                     const angle = (i / totalPoints) * Math.PI * 2;
@@ -302,7 +273,6 @@
                 ctx.strokeStyle = currentNeonColor; ctx.shadowBlur = 14; ctx.shadowColor = currentNeonColor;
                 ctx.stroke();
 
-                // ⚡ ইনার আল্ট্রা-শার্প হোয়াইট ব্লেড কোর লাইন
                 ctx.beginPath();
                 for (let i = 0; i <= totalPoints; i++) {
                     const angle = (i / totalPoints) * Math.PI * 2;
@@ -347,7 +317,7 @@
             }, 1000);
         }
 
-        // 🏰 Aincrad মোডের মেকানিজম
+        // 🏰 Aincrad mode
         function triggerAincradExecutionFlow(selectedSeconds) {
             box.remove();
             const checkOverlay = document.createElement('div');
@@ -367,8 +337,8 @@
             setTimeout(async () => {
                 let isUpdated = false;
                 try {
-                    const updateRes  = await fetch("https://rm.rama-modz.workers.dev/");
-                    const workerText = await workerRes.text();
+                    const updateRes = await fetch("https://rm.rama-modz.workers.dev/");
+                    const workerText = await updateRes.text();
                     if (workerText.includes("GitHub Updated")) { isUpdated = true; }
                 } catch (err) {}
 
@@ -390,7 +360,7 @@
             }, 3500);
         }
 
-        // 🚀 PowerZx! বাইপাস রিয়েল-টাইম সিকিউর রেলওয়ে কানেক্টর
+        // 🚀 Power bypass panel
         function triggerPowerZxPanel() {
             box.innerHTML = `
                 <button id="rama-back-btn" style="position:absolute;top:15px;left:15px;background:none;border:none;color:#64748b;cursor:pointer;font-size:16px;font-weight:bold;">❮</button>
@@ -398,7 +368,7 @@
                 <p style="margin:0 0 20px 0;color:#64748b;font-size:10px;letter-spacing:1px;">SUPPORTED: VPLINK ONLY</p>
                 <input type="text" id="rama-bypass-input" placeholder="https://vplink.in/..." style="width:100%;padding:12px;margin-bottom:16px;border:1px solid rgba(0,255,204,0.4);border-radius:8px;background:rgba(7,11,25,0.6);color:#fff;text-align:center;box-sizing:border-box;">
                 <button id="rama-fetch-bypass-btn" style="width:100%;background:#00ffcc;color:#030712;border:none;padding:12px;border-radius:8px;font-weight:700;cursor:pointer;">START BYPASS</button>
-                <div id="rama-bypass-status" style="margin-top:16px;font-size:11px;font-weight:700;color:#64748b;">READY</div>
+                <div id="rama-bypass-status" style="margin-top:16px;font-size:11px;font-weight:700;color:#64748b;">RAMA MODZ TEAM</div>
             `;
             document.getElementById('rama-back-btn').addEventListener('click', showMainOptionsPanel);
 
@@ -416,6 +386,7 @@
                 fetchBtn.disabled = true;
 
                 try {
+                    const RAILWAY_SERVER_URL = "https://zxi-bypass-production.up.railway.app";
                     const response = await fetch(`${RAILWAY_SERVER_URL}/api/bypass?url=${encodeURIComponent(urlVal)}`);
                     const data = await response.json();
                     
@@ -435,7 +406,7 @@
             });
         }
 
-        // 🏛️ মেইন ইন্টেলিজেন্ট সিলেকশন প্যানেল
+        // 🏛️ Main options panel
         function showMainOptionsPanel() {
             box.innerHTML = `
                 <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;font-weight:800;">SELECT SYSTEM ENGINE</h3>
@@ -447,7 +418,7 @@
             document.getElementById('rama-choice-aincrad').addEventListener('click', () => {
                 box.innerHTML = `
                     <button id="rama-back-to-main" style="position:absolute;top:15px;left:15px;background:none;border:none;color:#64748b;cursor:pointer;font-size:16px;font-weight:bold;">❮</button>
-                    <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;font-weight:800;">SELECT SYSTEM MODE</h3>
+                    <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;font-weight:800;">RAMA MODZ TEAM MODE</h3>
                     <p style="margin:0 0 22px 0;color:#64748b;font-size:10px;letter-spacing:1px;">CHOOSE SECURITY BYPASS METHOD</p>
                     <button id="rama-btn-fast" class="rama-mode-btn rama-btn-fast">FAST MODE (30s)</button>
                     <button id="rama-btn-secure" class="rama-mode-btn rama-btn-secure">SECURE MODE (45s)</button>
@@ -462,14 +433,14 @@
             document.getElementById('rama-choice-powerzx').addEventListener('click', triggerPowerZxPanel);
         }
 
-        // 🔑 লাইসেন্স কি ভেরিফিকেশন ইঞ্জিন
         loginBtn.addEventListener('click', () => {
             const inputKey = keyInput.value.trim();
             if(!inputKey) { statusDiv.innerHTML = "<span style='color:#ff4444;'>PLEASE INPUT KEY!</span>"; return; }
-            statusDiv.innerHTML = "<span style='color:#00ffcc;'>CONNECTING SERVER...</span>";
+            
+            statusDiv.innerHTML = "<span style='color:#00ffcc;'>VERIFYING KEY...</span>";
             
             setTimeout(() => {
-                if (correctPassword !== "" && inputKey === correctPassword) {
+                if (inputKey === correctPassword) {
                     statusDiv.innerHTML = "<span style='color:#00ffcc;'>KEY VALIDATED! ✓</span>";
                     setTimeout(showMainOptionsPanel, 800);
                 } else {
@@ -477,5 +448,6 @@
                 }
             }, 500);
         });
+
     })();
 })();
