@@ -1,1 +1,462 @@
-(function(_0x5407a6,_0x16c39b){const _0x456ec0=_0x34f5,_0x4e7ae4=_0x5407a6();while(!![]){try{const _0xe57b55=-parseInt(_0x456ec0(0x134))/0x1+parseInt(_0x456ec0(0x14b))/0x2*(-parseInt(_0x456ec0(0x148))/0x3)+parseInt(_0x456ec0(0x155))/0x4*(-parseInt(_0x456ec0(0x12d))/0x5)+parseInt(_0x456ec0(0x15e))/0x6+-parseInt(_0x456ec0(0x137))/0x7+parseInt(_0x456ec0(0x110))/0x8+parseInt(_0x456ec0(0x151))/0x9;if(_0xe57b55===_0x16c39b)break;else _0x4e7ae4['push'](_0x4e7ae4['shift']());}catch(_0x1ac6e4){_0x4e7ae4['push'](_0x4e7ae4['shift']());}}}(_0x4fc8,0x9f40c),(function(){'use strict';const _0x4d59d0=_0x34f5;let _0x30de6b=-0x1;if(typeof window[_0x4d59d0(0x11d)]!==_0x4d59d0(0x168))_0x30de6b=0x0;else for(let _0xf1edfa=0x1;_0xf1edfa<=0x1f4;_0xf1edfa++){if(typeof window[_0x4d59d0(0x13e)+_0xf1edfa+'_BOOKMARK_LOAD']!==_0x4d59d0(0x168)){_0x30de6b=_0xf1edfa;break;}}if(_0x30de6b===-0x1){console['log'](_0x4d59d0(0x17a),_0x4d59d0(0x163));return;}const _0x435108={'r':_0x4d59d0(0x14d),'t':_0x4d59d0(0x172),'m':_0x4d59d0(0x154),'s':_0x4d59d0(0x15d)+_0x4d59d0(0x114)+_0x4d59d0(0x158)+_0x4d59d0(0x133)+_0x4d59d0(0x13b)+_0x4d59d0(0x143)+'border:2px\x20solid\x20#00ffcc;width:300px;box-sizing:border-box;'+_0x4d59d0(0x116)},_0x1a3a51=[_0x4d59d0(0x127),_0x4d59d0(0x15f),_0x4d59d0(0x11a),_0x4d59d0(0x129)],_0x4ae2f3='https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3';let _0x43be4c=null;(async function(){const _0x2868be=_0x4d59d0;document[_0x2868be(0x115)](_0x2868be(0x174))?.['remove'](),document[_0x2868be(0x115)](_0x2868be(0x175))?.[_0x2868be(0x131)]();const _0x4ed712='RAMA\x20MODZ',_0x8fcbd3=_0x2868be(0x119),_0xeaae70=document[_0x2868be(0x162)](_0x2868be(0x179));_0xeaae70[_0x2868be(0x113)]='\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20rama-lightning-glow\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20\x20\x20{\x20box-shadow:\x200\x200\x205px\x20#00ffcc,\x200\x200\x2010px\x20#00ffcc,\x20inset\x200\x200\x205px\x20rgba(0,255,204,0.2);\x20\x20border-color:\x20#00ffcc;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2025%\x20\x20{\x20box-shadow:\x200\x200\x2015px\x20#00e6b8,\x200\x200\x2025px\x20#00ffcc,\x20inset\x200\x200\x2010px\x20rgba(0,255,204,0.4);\x20border-color:\x20#00e6b8;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2030%\x20\x20{\x20box-shadow:\x200\x200\x208px\x20#00ffcc,\x20\x200\x200\x2012px\x20#00ffcc,\x20inset\x200\x200\x206px\x20rgba(0,255,204,0.3);\x20\x20border-color:\x20#00ffcc;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2035%\x20\x20{\x20box-shadow:\x200\x200\x2025px\x20#00ffff,\x200\x200\x2040px\x20#00ffcc,\x20inset\x200\x200\x2015px\x20rgba(0,255,204,0.5);\x20border-color:\x20#00ffff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2070%\x20\x20{\x20box-shadow:\x200\x200\x2015px\x20#00e6b8,\x200\x200\x2025px\x20#00ffcc,\x20inset\x200\x200\x2010px\x20rgba(0,255,204,0.4);\x20border-color:\x20#00e6b8;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2073%\x20\x20{\x20box-shadow:\x200\x200\x205px\x20#00ffcc,\x20\x200\x200\x2010px\x20#00ffcc,\x20inset\x200\x200\x205px\x20rgba(0,255,204,0.2);\x20\x20border-color:\x20#00ffcc;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20box-shadow:\x200\x200\x205px\x20#00ffcc,\x20\x200\x200\x2010px\x20#00ffcc,\x20inset\x200\x200\x205px\x20rgba(0,255,204,0.2);\x20\x20border-color:\x20#00ffcc;\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20rama-spin\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20\x20\x20{\x20transform:\x20rotate(0deg);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20rotate(360deg);\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20rama-fire-spin\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20\x20\x20{\x20transform:\x20translate(-50%,\x20-50%)\x20rotate(0deg);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20translate(-50%,\x20-50%)\x20rotate(360deg);\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20@keyframes\x20rama-rainbow-glow\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x200%\x20\x20\x20{\x20color:\x20#ff0000;\x20text-shadow:\x200\x200\x206px\x20#ff0000;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2016%\x20\x20{\x20color:\x20#ff7f00;\x20text-shadow:\x200\x200\x206px\x20#ff7f00;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2033%\x20\x20{\x20color:\x20#ffff00;\x20text-shadow:\x200\x200\x206px\x20#ffff00;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2050%\x20\x20{\x20color:\x20#00ff00;\x20text-shadow:\x200\x200\x206px\x20#00ff00;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2066%\x20\x20{\x20color:\x20#00ffff;\x20text-shadow:\x200\x200\x206px\x20#00ffff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x2083%\x20\x20{\x20color:\x20#0000ff;\x20text-shadow:\x200\x200\x206px\x20#0000ff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20color:\x20#8b00ff;\x20text-shadow:\x200\x200\x206px\x20#8b00ff;\x20}\x0a\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20.rama-clickable-credit\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20bottom:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20right:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2018px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Courier\x20New\x27,\x20Courier,\x20monospace;\x0a\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:\x201px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x202147483647;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-decoration:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:\x20transparent;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20rama-rainbow-glow\x203s\x20linear\x20infinite;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20.rama-mode-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgba(0,255,204,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:\x201.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-transform:\x20uppercase;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-fast\x20\x20\x20{\x20background:\x20linear-gradient(90deg,\x20rgba(0,255,150,0.1),\x20rgba(0,255,150,0.2));\x20border-color:\x20#00ff96;\x20box-shadow:\x200\x200\x208px\x20rgba(0,255,150,0.2);\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-fast:hover\x20\x20\x20{\x20background:\x20#00ff96;\x20color:\x20#030712;\x20box-shadow:\x200\x200\x2015px\x20#00ff96;\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-secure\x20{\x20background:\x20linear-gradient(90deg,\x20rgba(255,170,0,0.1),\x20rgba(255,170,0,0.2));\x20border-color:\x20#ffaa00;\x20box-shadow:\x200\x200\x208px\x20rgba(255,170,0,0.2);\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-secure:hover\x20{\x20background:\x20#ffaa00;\x20color:\x20#030712;\x20box-shadow:\x200\x200\x2015px\x20#ffaa00;\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-safe\x20\x20\x20{\x20background:\x20linear-gradient(90deg,\x20rgba(0,204,255,0.1),\x20rgba(0,204,255,0.2));\x20border-color:\x20#00ccff;\x20box-shadow:\x200\x200\x208px\x20rgba(0,204,255,0.2);\x20}\x0a\x20\x20\x20\x20\x20\x20.rama-btn-safe:hover\x20\x20\x20{\x20background:\x20#00ccff;\x20color:\x20#030712;\x20box-shadow:\x200\x200\x2015px\x20#00ccff;\x20}\x0a\x20\x20\x20\x20',document[_0x2868be(0x146)][_0x2868be(0x120)](_0xeaae70);const _0x9592f8=document['createElement']('a');_0x9592f8['id']=_0x2868be(0x175),_0x9592f8['className']=_0x2868be(0x128),_0x9592f8[_0x2868be(0x139)]=_0x2868be(0x14e),_0x9592f8[_0x2868be(0x160)]='https://t.me/ramachanel',_0x9592f8['target']=_0x2868be(0x117),document[_0x2868be(0x13c)][_0x2868be(0x120)](_0x9592f8);const _0x14dae0=document[_0x2868be(0x162)](_0x2868be(0x140));_0x14dae0['id']=_0x2868be(0x174),_0x14dae0[_0x2868be(0x179)][_0x2868be(0x14f)]=_0x435108['s'],_0x14dae0[_0x2868be(0x136)]=_0x2868be(0x161)+_0x4ed712+_0x2868be(0x156),document[_0x2868be(0x13c)]['appendChild'](_0x14dae0);const _0x37fa4f=document[_0x2868be(0x115)](_0x2868be(0x170)),_0x15c6b4=document[_0x2868be(0x115)]('rama-key-input'),_0x538694=document['getElementById'](_0x2868be(0x132)),_0xa831c8=document['getElementById'](_0x2868be(0x173)),_0x3e57ab=document[_0x2868be(0x115)]('rama-status');setTimeout(()=>{const _0x27ecb0=_0x2868be;_0x14dae0['style'][_0x27ecb0(0x16b)]=_0x27ecb0(0x13d),window['innerWidth']<0x258&&(_0x14dae0[_0x27ecb0(0x179)][_0x27ecb0(0x159)]=_0x27ecb0(0x16f),_0x14dae0['style'][_0x27ecb0(0x144)]=_0x27ecb0(0x118));},0xa);let _0xd1c926=![];_0x37fa4f[_0x2868be(0x11f)]('click',async()=>{const _0x32abb1=_0x2868be;if(_0xd1c926)return;if(!_0x43be4c){_0xd1c926=!![],_0x37fa4f[_0x32abb1(0x113)]='⏳';let _0x1a2c74=_0x4ae2f3;try{const _0x229259=await fetch(_0x435108['m']+_0x32abb1(0x11b)+Date[_0x32abb1(0x15a)]()),_0x4422e3=(await _0x229259[_0x32abb1(0x12e)]())[_0x32abb1(0x15c)]();_0x4422e3&&_0x4422e3[_0x32abb1(0x17c)]('http')?_0x1a2c74=_0x4422e3:console[_0x32abb1(0x166)](_0x32abb1(0x153));}catch(_0x1a29b1){console['log'](_0x32abb1(0x111),_0x1a29b1);}_0x43be4c=new Audio(_0x1a2c74),_0x43be4c['loop']=!![],_0xd1c926=![];}_0x43be4c[_0x32abb1(0x112)]?_0x43be4c[_0x32abb1(0x17b)]()[_0x32abb1(0x142)](()=>{const _0x287af2=_0x32abb1;_0x37fa4f[_0x287af2(0x113)]='🔊',_0x37fa4f[_0x287af2(0x179)][_0x287af2(0x12c)]='#00ffcc',_0x37fa4f[_0x287af2(0x179)][_0x287af2(0x124)]=_0x287af2(0x121),_0x37fa4f[_0x287af2(0x179)][_0x287af2(0x12b)]=_0x287af2(0x169);})[_0x32abb1(0x157)](_0x271234=>{const _0x31b5e2=_0x32abb1;console[_0x31b5e2(0x166)](_0x31b5e2(0x150),_0x271234),_0x37fa4f[_0x31b5e2(0x113)]='🔇';}):(_0x43be4c['pause'](),_0x37fa4f[_0x32abb1(0x113)]='🔇',_0x37fa4f[_0x32abb1(0x179)][_0x32abb1(0x12c)]='#ff4444',_0x37fa4f[_0x32abb1(0x179)]['borderColor']=_0x32abb1(0x177),_0x37fa4f[_0x32abb1(0x179)][_0x32abb1(0x12b)]=_0x32abb1(0x178));}),_0x15c6b4[_0x2868be(0x11f)](_0x2868be(0x16d),()=>{const _0x396a6e=_0x2868be;_0x15c6b4[_0x396a6e(0x179)][_0x396a6e(0x122)]=_0x396a6e(0x11e),_0x15c6b4[_0x396a6e(0x179)][_0x396a6e(0x12b)]=_0x396a6e(0x135);}),_0x15c6b4[_0x2868be(0x11f)](_0x2868be(0x167),()=>{const _0x39bf1b=_0x2868be;_0x15c6b4['style'][_0x39bf1b(0x122)]=_0x39bf1b(0x13f),_0x15c6b4[_0x39bf1b(0x179)][_0x39bf1b(0x12b)]=_0x39bf1b(0x152);}),_0xa831c8[_0x2868be(0x11f)](_0x2868be(0x13a),()=>{const _0x506735=_0x2868be;_0x8fcbd3&&_0x8fcbd3[_0x506735(0x17c)]('http')&&window['open'](_0x8fcbd3,_0x506735(0x117));});function _0x36daa9(_0x115b77){const _0x2007db=_0x2868be;_0x14dae0[_0x2007db(0x131)]();const _0x4f7863=document[_0x2007db(0x162)](_0x2007db(0x140));_0x4f7863['style'][_0x2007db(0x14f)]=_0x2007db(0x16e),_0x4f7863[_0x2007db(0x136)]=_0x2007db(0x149),document[_0x2007db(0x13c)][_0x2007db(0x120)](_0x4f7863),setTimeout(async()=>{const _0x416ade=_0x2007db;let _0xa85cd2=![];try{const _0x1455f3=await fetch(_0x416ade(0x12f)),_0x1de2b6=await _0x1455f3[_0x416ade(0x12e)]();if(_0x1de2b6[_0x416ade(0x15b)]('GitHub\x20Updated'))_0xa85cd2=!![];}catch{}const _0x55694d=document[_0x416ade(0x115)](_0x416ade(0x145));_0x55694d[_0x416ade(0x136)]=_0xa85cd2?_0x416ade(0x171):_0x416ade(0x123),setTimeout(async()=>{const _0x48e576=_0x416ade;_0x4f7863[_0x48e576(0x131)]();try{const _0x1e20e7=await fetch(_0x435108['r']+_0x48e576(0x11b)+Date['now']()),_0x255471=(await _0x1e20e7[_0x48e576(0x12e)]())[_0x48e576(0x15c)]();if(!_0x255471[_0x48e576(0x17c)](_0x48e576(0x16a)))return;const _0x4219bd=0x255,_0x4a13c1=document[_0x48e576(0x162)](_0x48e576(0x140));_0x4a13c1['style'][_0x48e576(0x14f)]=_0x48e576(0x125),_0x4a13c1[_0x48e576(0x136)]=_0x48e576(0x14a)+_0x4219bd+'\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-dashoffset=\x22'+_0x4219bd+'\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-linecap=\x22round\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20style=\x22filter:drop-shadow(0\x200\x206px\x20#00ffcc);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:stroke-dashoffset\x201s\x20linear;\x22></circle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22countdown-text\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;\x20top:50%;\x20left:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:translate(-50%,-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:54px;\x20font-weight:900;\x20color:#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:0\x200\x2020px\x20#00ffcc,\x200\x200\x2030px\x20rgba(0,255,204,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:4;\x22>'+_0x115b77+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin-top:30px;\x20color:#00ffcc;\x20font-size:16px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:700;\x20letter-spacing:3px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:0\x200\x2012px\x20rgba(0,255,204,0.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:relative;\x20z-index:4;\x22>REDIRECTING...</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',document[_0x48e576(0x13c)]['appendChild'](_0x4a13c1);let _0x2ba3f7=_0x115b77;const _0xfbe693=_0x4a13c1[_0x48e576(0x126)](_0x48e576(0x141)),_0x2264b6=_0x4a13c1['querySelector']('#countdown-text'),_0x38719c=setInterval(()=>{const _0x280098=_0x48e576;_0x2ba3f7--,_0x2264b6['textContent']=_0x2ba3f7,_0xfbe693['style']['strokeDashoffset']=_0x4219bd*(_0x2ba3f7/_0x115b77),_0x2ba3f7<=0x0&&(clearInterval(_0x38719c),_0x43be4c&&(_0x43be4c[_0x280098(0x10f)](),_0x43be4c=null),_0x4a13c1[_0x280098(0x131)](),window[_0x280098(0x14c)][_0x280098(0x176)](_0x255471));},0x3e8);}catch{alert('REDIRECT\x20ERROR!');}},0x5dc);},0x1388);}_0x538694[_0x2868be(0x11f)](_0x2868be(0x13a),()=>{const _0x2b46c1=_0x2868be,_0x395bd8=_0x15c6b4[_0x2b46c1(0x164)][_0x2b46c1(0x15c)]();if(!_0x395bd8){_0x3e57ab['innerHTML']='<span\x20style=\x27color:#ff4444;\x27>PLEASE\x20INPUT\x20KEY!</span>';return;}const _0x52999c=_0x1a3a51[_0x2b46c1(0x138)](_0x4d4725=>_0x4d4725[_0x2b46c1(0x11c)]()===_0x395bd8['toLowerCase']());_0x52999c?(_0x3e57ab['innerHTML']='<span\x20style=\x27color:#00ffcc;\x27>KEY\x20VALIDATED!\x20✓</span>',_0x538694[_0x2b46c1(0x16c)]=!![],_0xa831c8['disabled']=!![],setTimeout(()=>{const _0x56ba79=_0x2b46c1;_0x14dae0['innerHTML']=_0x56ba79(0x12a),document[_0x56ba79(0x115)]('rama-btn-fast')[_0x56ba79(0x11f)](_0x56ba79(0x13a),()=>_0x36daa9(0x1e)),document[_0x56ba79(0x115)](_0x56ba79(0x147))[_0x56ba79(0x11f)](_0x56ba79(0x13a),()=>_0x36daa9(0x2d)),document[_0x56ba79(0x115)](_0x56ba79(0x165))[_0x56ba79(0x11f)](_0x56ba79(0x13a),()=>_0x36daa9(0x3c));},0x320)):_0x3e57ab['innerHTML']=_0x2b46c1(0x130);});}());}()));function _0x34f5(_0xbc16db,_0x4f0a24){const _0x4fc8ca=_0x4fc8();return _0x34f5=function(_0x34f599,_0x2a3537){_0x34f599=_0x34f599-0x10f;let _0x5825bb=_0x4fc8ca[_0x34f599];return _0x5825bb;},_0x34f5(_0xbc16db,_0x4f0a24);}function _0x4fc8(){const _0x2377f5=['\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:fixed;\x20top:0;\x20left:0;\x20width:100%;\x20height:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(3,7,18,0.05);\x20backdrop-filter:blur(1px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-webkit-backdrop-filter:blur(1px);\x20z-index:2147483647;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:flex;\x20align-items:center;\x20justify-content:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:system-ui,-apple-system,sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','querySelector','RAMA\x20MODZ','rama-clickable-credit','RAMAMODS','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20style=\x22margin:0\x200\x208px\x200;color:#00ffcc;font-size:18px;letter-spacing:1px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:800;text-shadow:0\x200\x2012px\x20rgba(0,255,204,0.5);\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20RAMA\x20MODZ\x20TEAM\x20MODE\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:0\x200\x2022px\x200;color:#64748b;font-size:10px;letter-spacing:1.5px;font-weight:600;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20CHOOSE\x20SECURITY\x20BYPASS\x20METHOD\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-btn-fast\x22\x20\x20\x20class=\x22rama-mode-btn\x20rama-btn-fast\x22>FAST\x20MODE\x20(BAN\x20RISK)</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-btn-secure\x22\x20class=\x22rama-mode-btn\x20rama-btn-secure\x22>SECURE\x20MODE\x20(MIDDLE)</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-btn-safe\x22\x20\x20\x20class=\x22rama-mode-btn\x20rama-btn-safe\x22>SAFE\x20MODE\x20(FULL\x20SAFE)</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','boxShadow','color','5TmxerE','text','https://rm.rama-modz.workers.dev/','<span\x20style=\x27color:#ff4444;\x27>INVALID\x20LICENSE\x20KEY!</span>','remove','rama-login-btn','border-radius:16px;z-index:2147483647;','1136703oAyTxx','0\x200\x2010px\x20rgba(0,255,204,0.25),\x20inset\x200\x202px\x204px\x20rgba(0,0,0,0.5)','innerHTML','2376178tMBBaF','some','innerText','click','font-family:system-ui,-apple-system,BlinkMacSystemFont,\x22Segoe\x20UI\x22,Roboto,sans-serif;','body','2147483647','RAMA','1px\x20solid\x20rgba(0,255,204,0.4)','div','#progress','then','text-align:center;box-shadow:0\x2020px\x2050px\x20rgba(0,0,0,0.6);','maxWidth','rama-check-text','head','rama-btn-secure','1573335VYGZTZ','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x20background:rgba(6,10,23,0.95);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:35px\x2030px;\x20border-radius:16px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:1px\x20solid\x20#00ffcc;\x20width:290px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20rama-lightning-glow\x203s\x20linear\x20infinite;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22width:45px;\x20height:45px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:4px\x20solid\x20rgba(0,255,204,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-top:4px\x20solid\x20#00ffcc;\x20border-radius:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:0\x20auto\x2020px\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:rama-spin\x200.8s\x20linear\x20infinite;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x200\x2015px\x20rgba(0,255,204,0.2);\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20id=\x22rama-check-text\x22\x20style=\x22color:#00ffcc;\x20font-size:15px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:700;\x20margin:0;\x20letter-spacing:1.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:0\x200\x208px\x20rgba(0,255,204,0.3);\x22>CHECKING\x20UPDATE...</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:center;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:relative;\x20width:250px;\x20height:250px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:0\x20auto;\x20display:flex;\x20align-items:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:center;\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:absolute;\x20top:50%;\x20left:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:214px;\x20height:214px;\x20border-radius:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:conic-gradient(transparent\x200deg,#ff3300\x2090deg,#ffaa00\x20180deg,#00ffcc\x20270deg,transparent\x20360deg);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20filter:blur(14px);\x20opacity:0.85;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:rama-fire-spin\x201.5s\x20linear\x20infinite;\x20z-index:1;\x22></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:absolute;\x20top:50%;\x20left:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:206px;\x20height:206px;\x20border-radius:50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:conic-gradient(transparent\x200deg,#ff0055\x2060deg,#ff5500\x20120deg,#ffcc00\x20240deg,transparent\x20360deg);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20filter:blur(6px);\x20opacity:0.9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:rama-fire-spin\x201s\x20linear\x20infinite\x20reverse;\x20z-index:2;\x22></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20width=\x22240\x22\x20height=\x22240\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20style=\x22transform:rotate(-90deg);\x20position:relative;\x20z-index:3;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20cx=\x22120\x22\x20cy=\x22120\x22\x20r=\x2295\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20fill=\x22rgba(6,10,23,0.65)\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke=\x22rgba(0,255,204,0.1)\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-width=\x2214\x22></circle>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<circle\x20id=\x22progress\x22\x20cx=\x22120\x22\x20cy=\x22120\x22\x20r=\x2295\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20fill=\x22none\x22\x20stroke=\x22#00ffcc\x22\x20stroke-width=\x2214\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20stroke-dasharray=\x22','4UMKabh','location','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt','RAMA\x20MODZ\x20TEAM','cssText','Playback\x20failed:','23947686KydYvA','inset\x200\x202px\x204px\x20rgba(0,0,0,0.5)','Invalid\x20audio\x20URL\x20in\x20music.txt,\x20using\x20fallback.','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3','2358996vrfIou','\x20TEAM\x0a\x20\x20\x20\x20\x20\x20</h3>\x0a\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:0\x200\x2020px\x200;color:#64748b;font-size:11px;letter-spacing:2px;font-weight:600;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20ENTER\x20LICENSE\x20KEY\x0a\x20\x20\x20\x20\x20\x20</p>\x0a\x0a\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22rama-key-input\x22\x20placeholder=\x22ENTER\x20KEY\x20HERE\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:100%;padding:12px;margin-bottom:16px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border:1px\x20solid\x20rgba(0,255,204,0.4);border-radius:8px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(7,11,25,0.6);color:#fff;text-align:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:border-box;font-size:13px;font-weight:600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:1px;outline:none;transition:all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:inset\x200\x202px\x204px\x20rgba(0,0,0,0.5);\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-login-btn\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:100%;background:#00ffcc;color:#030712;border:none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:12px;border-radius:8px;font-weight:700;cursor:pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:14px;letter-spacing:0.5px;margin-bottom:12px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x204px\x2012px\x20rgba(0,255,204,0.3);transition:all\x200.2s\x20ease;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20VERIFY\x0a\x20\x20\x20\x20\x20\x20</button>\x0a\x0a\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-telegram-btn\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:100%;background:#229ED9;color:#fff;border:none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:12px;border-radius:8px;font-weight:700;cursor:pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:14px;letter-spacing:0.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x204px\x2012px\x20rgba(34,158,217,0.25);\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20TELEGRAM\x20RAMA\x20MODZ\x0a\x20\x20\x20\x20\x20\x20</button>\x0a\x0a\x20\x20\x20\x20\x20\x20<div\x20id=\x22rama-status\x22\x20style=\x22margin-top:16px;font-size:11px;font-weight:700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:#64748b;letter-spacing:1.5px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20RAMA\x20MODZ\x20TEAM\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','catch','-webkit-backdrop-filter:blur(12px);color:#fff;padding:30px\x2025px;','width','now','includes','trim','position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);','5620866AAKwiN','RAMAMODZ','href','\x0a\x20\x20\x20\x20\x20\x20<button\x20id=\x22rama-music-btn\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:absolute;top:15px;right:15px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(255,255,255,0.05);border:1px\x20solid\x20rgba(0,255,204,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:#ff4444;border-radius:50%;width:32px;height:32px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:pointer;font-size:14px;display:flex;align-items:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20justify-content:center;box-shadow:0\x200\x208px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20transition:all\x200.3s\x20ease;z-index:10;\x22>🔇</button>\x0a\x0a\x20\x20\x20\x20\x20\x20<h3\x20style=\x22margin:0\x200\x206px\x200;color:#00ffcc;font-size:20px;letter-spacing:1.5px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:800;text-shadow:0\x200\x2012px\x20rgba(0,255,204,0.5);text-transform:uppercase;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','createElement','color:#ff0000;font-size:15px;font-weight:bold','value','rama-btn-safe','log','blur','undefined','0\x200\x2010px\x20rgba(0,255,204,0.4)','http','zIndex','disabled','focus','\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:fixed;\x20top:0;\x20left:0;\x20width:100%;\x20height:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:rgba(3,7,18,0.85);\x20backdrop-filter:blur(8px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20-webkit-backdrop-filter:blur(8px);\x20z-index:2147483647;\x0a\x20\x20\x20\x20\x20\x20\x20\x20display:flex;\x20align-items:center;\x20justify-content:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-family:system-ui,-apple-system,sans-serif;\x0a\x20\x20\x20\x20\x20\x20','90%','rama-music-btn','<span\x20style=\x27color:#00ffcc;\x27>Link\x20Updated\x20Successfully!\x20✓</span>','https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt','rama-telegram-btn','rama-auth-box','rama-floating-credit','replace','rgba(0,255,204,0.3)','0\x200\x208px\x20rgba(0,0,0,0.3)','style','%cAccess\x20Denied\x20-\x20Bookmark\x20Required','play','startsWith','pause','1355448tandMM','Failed\x20to\x20fetch\x20music\x20URL,\x20using\x20fallback:','paused','textContent','background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);','getElementById','animation:\x20rama-lightning-glow\x203s\x20linear\x20infinite;','_blank','300px','https://t.me/ramachanel','RAMA\x20MODS','?t=','toLowerCase','RAMA_BOOKMARK_LOAD','1px\x20solid\x20#00ffcc','addEventListener','appendChild','#00ffcc','border','<span\x20style=\x27color:#ff4444;\x20text-shadow:0\x200\x208px\x20rgba(255,68,68,0.3);\x27>No\x20Update\x20Available!</span>','borderColor'];_0x4fc8=function(){return _0x2377f5;};return _0x4fc8();}
+(function() {
+    "use strict";
+
+    // ✅ LOCAL KEY MODE - Tidak perlu koneksi server
+    // 🔑 Password lokal langsung di sini
+    const LOCAL_PASSWORD = "RAMA MODZ";
+
+    // 🔍 Bookmark tracking logic (tetap sama)
+    let userIndex = -1;
+    if (typeof window.RAMA_BOOKMARK_LOAD !== "undefined") {
+        userIndex = 0;
+    } else {
+        for (let i = 1; i <= 500; i++) {
+            if (typeof window['RAMA' + i + '_BOOKMARK_LOAD'] !== "undefined") {
+                userIndex = i;
+                break;
+            }
+        }
+    }
+
+    if (userIndex === -1) {
+        console.log("%cAccess Denied - Bookmark Required", "color:#ff0000;font-size:15px;font-weight:bold");
+        return;
+    }
+
+    const _d = {
+    r: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-DOMAIN/main/ramamodz.txt",
+        t: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-BUTTON/main/button.txt",
+        m: "https://raw.githubusercontent.com/yuhb8756-lab/RAMA-MODZ-MUSIC/main/music.mp3",
+        s: 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#fff;padding:30px 25px;border-radius:16px;z-index:2147483647;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,0.6);border:2px solid #00ffcc;width:300px;box-sizing:border-box;animation: rama-lightning-glow 3s linear infinite;'
+    };
+
+    let ramaAudio = null;
+    let audioContext = null;
+    let analyser = null;
+    let dataArray = null;
+    let source = null;
+    let animationFrameId = null;
+    let isMusicLoading = false;
+
+    (async function() {
+        const oldBox = document.getElementById('rama-auth-box');
+        if(oldBox) oldBox.remove();
+        
+        const oldCredit = document.getElementById('rama-floating-credit');
+        if(oldCredit) oldCredit.remove();
+
+        const oldMusicBtn = document.getElementById('rama-music-btn');
+        if(oldMusicBtn) oldMusicBtn.remove();
+
+        // ✅ Data lokal - tidak perlu fetch dari server
+        let systemName = "RAMA MODZ";
+        let userTelegram = "https://t.me/ramachanel";
+        let correctPassword = LOCAL_PASSWORD; // 🔑 Password langsung dari variabel lokal
+
+        // 🎨 Stylesheet
+        const styleSheet = document.createElement("style");
+        styleSheet.textContent = `
+            @keyframes rama-lightning-glow {
+                0% { box-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2); border-color: #00ffcc; }
+                25% { box-shadow: 0 0 15px #00e6b8, 0 0 25px #00ffcc, inset 0 0 10px rgba(0,255,204,0.4); border-color: #00e6b8; }
+                30% { box-shadow: 0 0 8px #00ffcc, 0 0 12px #00ffcc, inset 0 0 6px rgba(0,255,204,0.3); border-color: #00ffcc; }
+                35% { box-shadow: 0 0 25px #00ffff, 0 0 40px #00ffcc, inset 0 0 15px rgba(0,255,204,0.5); border-color: #00ffff; }
+                70% { box-shadow: 0 0 15px #00e6b8, 0 0 25px #00ffcc, inset 0 0 10px rgba(0,255,204,0.4); border-color: #00e6b8; }
+                73% { box-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2); border-color: #00ffcc; }
+                100% { box-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, inset 0 0 5px rgba(0,255,204,0.2); border-color: #00ffcc; }
+            }
+            @keyframes rama-spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+            @keyframes rama-fire-spin { 0% { transform: translate(-50%, -50%) rotate(0deg); } 100% { transform: translate(-50%, -50%) rotate(360deg); } }
+            
+            .rama-clickable-credit {
+                position: fixed;
+                bottom: 14px; right: 20px; font-size: 18px; font-weight: bold;
+                font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;
+                z-index: 2147483647; text-decoration: none; cursor: pointer;
+                background: transparent; border: none; padding: 0; margin: 0;
+                animation: rama-rainbow-glow 3s linear infinite;
+            }
+            @keyframes rama-rainbow-glow {
+                0% { color: #ff0000; text-shadow: 0 0 6px #ff0000; }
+                16% { color: #ff7f00; text-shadow: 0 0 6px #ff7f00; }
+                33% { color: #ffff00; text-shadow: 0 0 6px #ffff00; }
+                50% { color: #00ff00; text-shadow: 0 0 6px #00ff00; }
+                66% { color: #00ffff; text-shadow: 0 0 6px #00ffff; }
+                83% { color: #0000ff; text-shadow: 0 0 6px #0000ff; }
+                100% { color: #8b00ff; text-shadow: 0 0 6px #8b00ff; }
+            }
+            
+            .rama-mode-btn {
+                width: 100%; border: 1px solid rgba(0,255,204,0.3); padding: 12px;
+                border-radius: 8px; font-weight: 700; cursor: pointer; font-size: 14px;
+                letter-spacing: 1.5px; margin-bottom: 12px; color: #fff;
+                transition: all 0.3s ease; text-transform: uppercase;
+            }
+            .rama-btn-fast { background: linear-gradient(90deg, rgba(0,255,150,0.1), rgba(0,255,150,0.2)); border-color: #00ff96; box-shadow: 0 0 8px rgba(0,255,150,0.2); }
+            .rama-btn-fast:hover { background: #00ff96; color: #030712; box-shadow: 0 0 15px #00ff96; }
+            
+            .rama-btn-secure { background: linear-gradient(90deg, rgba(255,170,0,0.1), rgba(255,170,0,0.2)); border-color: #ffaa00; box-shadow: 0 0 8px rgba(255,170,0,0.2); }
+            .rama-btn-secure:hover { background: #ffaa00; color: #030712; box-shadow: 0 0 15px #ffaa00; }
+            
+            .rama-btn-safe { background: linear-gradient(90deg, rgba(0,204,255,0.1), rgba(0,204,255,0.2)); border-color: #00ccff; box-shadow: 0 0 8px rgba(0,204,255,0.2); }
+            .rama-btn-safe:hover { background: #00ccff; color: #030712; box-shadow: 0 0 15px #00ccff; }
+
+            .rama-btn-main-choice { background: linear-gradient(90deg, rgba(0,255,204,0.1), rgba(0,255,204,0.2)); border-color: #00ffcc; box-shadow: 0 0 8px rgba(0,255,204,0.2); }
+            .rama-btn-main-choice:hover { background: #00ffcc; color: #030712; box-shadow: 0 0 15px #00ffcc; }
+        `;
+        document.head.appendChild(styleSheet);
+
+        // 🔗 Floating credit link
+        const creditLink = document.createElement('a');
+        creditLink.id = 'rama-floating-credit';
+        creditLink.className = 'rama-clickable-credit';
+        creditLink.innerText = 'RAMA MODZ TEAM';
+        creditLink.href = userTelegram; 
+        creditLink.target = '_blank';
+        document.body.appendChild(creditLink);
+
+        // 🎵 Floating music button
+        const musicBtn = document.createElement('button');
+        musicBtn.id = 'rama-music-btn';
+        musicBtn.style.cssText = 'position:fixed; bottom:15px; left:15px; background:rgba(6,10,23,0.95); border:2px solid rgba(0,255,204,0.5); color:#ff4444; border-radius:50%; width:45px; height:45px; cursor:pointer; font-size:18px; display:flex; align-items:center; justify-content:center; box-shadow:0 4px 15px rgba(0,0,0,0.5); transition:all 0.3s ease; z-index:2147483647; outline:none;';
+        musicBtn.textContent = '🔇';
+        document.body.appendChild(musicBtn);
+
+        // 🕋 Main auth box
+        const box = document.createElement('div');
+        box.id = 'rama-auth-box';
+        box.style.cssText = _d.s;
+        
+        box.innerHTML = `
+          <h3 style="margin:0 0 6px 0;color:#00ffcc;font-size:20px;letter-spacing:1.5px;font-weight:800;text-shadow:0 0 12px rgba(0,255,204,0.5); text-transform: uppercase;">${systemName} TEAM</h3>
+          <p style="margin:0 0 20px 0;color:#64748b;font-size:11px;letter-spacing:2px;font-weight:600;">ENTER LICENSE KEY</p>
+          <input type="text" id="rama-key-input" placeholder="ENTER KEY HERE" style="width:100%;padding:12px;margin-bottom:16px;border:1px solid rgba(0,255,204,0.4);border-radius:8px;background:rgba(7,11,25,0.6);color:#fff;text-align:center;box-sizing:border-box;font-size:13px;font-weight:600;letter-spacing:1px;outline:none;transition:all 0.3s ease;box-shadow:inset 0 2px 4px rgba(0,0,0,0.5);">
+          <button id="rama-login-btn" style="width:100%;background:#00ffcc;color:#030712;border:none;padding:12px;border-radius:8px;font-weight:700;cursor:pointer;font-size:14px;letter-spacing:0.5px;margin-bottom:12px;box-shadow:0 4px 12px rgba(0,255,204,0.3);transition:all 0.2s ease;">VERIFY</button>
+          <button id="rama-telegram-btn" style="width:100%;background:#229ED9;color:#fff;border:none;padding:12px;border-radius:8px;font-weight:700;cursor:pointer;font-size:14px;letter-spacing:0.5px;box-shadow:0 4px 12px rgba(34,158,217,0.25);">TELEGRAM RAMA MODZ</button>
+          <div id="rama-status" style="margin-top:16px;font-size:11px;font-weight:700;color:#64748b;letter-spacing:1.5px;">RAMA MODZ TEAM</div>
+        `;
+        document.body.appendChild(box);
+
+        // 🎵 Music & Visualizer setup
+        async function setupVisualizer() {
+            if (audioContext) return;
+            try {
+                audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                analyser = audioContext.createAnalyser();
+                analyser.fftSize = 512;
+                analyser.smoothingTimeConstant = 0.3; 
+                dataArray = new Uint8Array(analyser.frequencyBinCount);
+                source = audioContext.createMediaElementSource(ramaAudio);
+                source.connect(analyser);
+                analyser.connect(audioContext.destination);
+            } catch(e) {
+                console.error("Audio Context setup failed:", e);
+            }
+        }
+
+        musicBtn.addEventListener('click', async () => {
+            if (isMusicLoading) return;
+            if (!ramaAudio) {
+                try {
+                    isMusicLoading = true; musicBtn.textContent = '⏳';
+                    const res = await fetch(_d.m + '&t=' + Date.now());
+                    const audioUrl = (await res.text()).trim();
+                    if(audioUrl && audioUrl.startsWith('http')) {
+                        const audioFetch = await fetch(audioUrl);
+                        const blobUrl = URL.createObjectURL(await audioFetch.blob());
+                        ramaAudio = new Audio(blobUrl); ramaAudio.loop = true; ramaAudio.crossOrigin = "anonymous";
+                    } else { isMusicLoading = false; musicBtn.textContent = '🔇'; return; }
+                } catch(err) { isMusicLoading = false; musicBtn.textContent = '🔇'; return; }
+                isMusicLoading = false;
+            }
+            if (audioContext && audioContext.state === 'suspended') { await audioContext.resume(); }
+            if (ramaAudio.paused) {
+                await setupVisualizer();
+                ramaAudio.play().then(() => {
+                    musicBtn.textContent = '🔊'; musicBtn.style.color = '#00ffcc';
+                    musicBtn.style.borderColor = '#00ffcc'; musicBtn.style.boxShadow = '0 0 15px rgba(0,255,204,0.6)';
+                }).catch(err => {});
+            } else {
+                ramaAudio.pause(); musicBtn.textContent = '🔇'; musicBtn.style.color = '#ff4444';
+                musicBtn.style.borderColor = 'rgba(0,255,204,0.5)'; musicBtn.style.boxShadow = '0 4px 15px rgba(0,0,0,0.5)';
+            }
+        });
+
+        const keyInput = document.getElementById('rama-key-input');
+        keyInput.addEventListener('focus', () => {
+            keyInput.style.border = '1px solid #00ffcc';
+            keyInput.style.boxShadow = '0 0 10px rgba(0,255,204,0.25), inset 0 2px 4px rgba(0,0,0,0.5)';
+        });
+
+        const loginBtn = document.getElementById('rama-login-btn');
+        const tgBtn = document.getElementById('rama-telegram-btn');
+        const statusDiv = document.getElementById('rama-status');
+
+        tgBtn.addEventListener('click', () => window.open(userTelegram, '_blank'));
+
+        // 🎇 Visualizer animation engine
+        function startVisualizerAnimation(selectedSeconds, redirectUrl) {
+            const overlay = document.createElement('div');
+            overlay.style.cssText = `
+                position:fixed; top:0; left:0; width:100%; height:100%; 
+                background:rgba(3,7,18,0.4); backdrop-filter:blur(3px); -webkit-backdrop-filter:blur(3px); z-index:2147483647; 
+                display:flex; align-items:center; justify-content:center; font-family:system-ui,-apple-system,sans-serif;
+            `;
+
+            overlay.innerHTML = `
+                <div style="text-align:center; position:relative;">
+                    <div style="position:relative; width:400px; height:400px; margin:0 auto; display:flex; align-items:center; justify-content:center;">
+                        <canvas id="rama-visualizer-canvas" width="400" height="400" style="position:absolute; top:0; left:0; z-index:2; pointer-events:none;"></canvas>
+                        <div id="rama-glow-core" style="position:absolute; top:50%; left:50%; width:180px; height:180px; border-radius:50%; background:conic-gradient(transparent 0deg, #ff3300 90deg, #ffaa00 180deg, #00ffcc 270deg, transparent 360deg); filter: blur(25px); opacity:0.4; animation: rama-fire-spin 4s linear infinite; z-index:1; transition: all 0.3s ease;"></div>
+                        <svg width="240" height="240" style="transform:rotate(-90deg); position:relative; z-index:3;">
+                            <circle cx="120" cy="120" r="85" fill="rgba(6,10,23,0.94)" stroke="rgba(255,255,255,0.05)" stroke-width="10"></circle>
+                            <circle id="progress" cx="120" cy="120" r="85" fill="none" stroke="#00ccff" stroke-width="10" stroke-dasharray="534" stroke-dashoffset="534" stroke-linecap="round" style="transition: stroke-dashoffset 1s linear, stroke 0.4s ease, filter 0.4s ease;"></circle>
+                        </svg>
+                        <div id="countdown-text" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:52px; font-weight:900; color:#fff; text-shadow:0 0 15px #00ccff; z-index:4; transition: color 0.4s ease, text-shadow 0.4s ease;">${selectedSeconds}</div>
+                    </div>
+                    <p id="rama-redirect-label" style="margin-top:20px; color:#00ccff; font-size:15px; font-weight:700; letter-spacing:3px; text-shadow:0 0 10px rgba(0,204,255,0.4); position:relative; z-index:4; transition: color 0.4s ease;">REDIRECTING...</p>
+                </div>
+            `;
+            document.body.appendChild(overlay);
+
+            const canvas = document.getElementById('rama-visualizer-canvas');
+            const ctx = canvas.getContext('2d');
+            const centerX = canvas.width / 2;
+            const centerY = canvas.height / 2;
+            const baseRadius = 88; 
+            let colorHue = 180; 
+            
+            const progressRing = overlay.querySelector('#progress');
+            const countdownText = overlay.querySelector('#countdown-text');
+            const redirectLabel = overlay.querySelector('#rama-redirect-label');
+
+            function drawSpectrum() {
+                animationFrameId = requestAnimationFrame(drawSpectrum);
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                colorHue = (colorHue + 0.4) % 360; 
+                const currentNeonColor = `hsl(${colorHue}, 100%, 55%)`;
+                let dynamicRadiusPulse = baseRadius;
+
+                if (analyser && ramaAudio && !ramaAudio.paused) {
+                    analyser.getByteFrequencyData(dataArray);
+                    let lowBass = 0;
+                    for(let b = 0; b < 5; b++) { lowBass += dataArray[b] || 0; }
+                    lowBass = lowBass / 5;
+                    dynamicRadiusPulse = baseRadius + (lowBass / 12);
+                } else if (dataArray) { dataArray.fill(0); }
+
+                const totalPoints = 56; 
+                if (!dataArray) return;
+
+                progressRing.style.stroke = currentNeonColor;
+                progressRing.style.filter = `drop-shadow(0 0 12px ${currentNeonColor})`;
+                countdownText.style.color = '#ffffff';
+                countdownText.style.textShadow = `0 0 15px ${currentNeonColor}`;
+                redirectLabel.style.color = currentNeonColor;
+                redirectLabel.style.textShadow = `0 0 10px ${currentNeonColor}`;
+
+                ctx.beginPath();
+                for (let i = 0; i <= totalPoints; i++) {
+                    const angle = (i / totalPoints) * Math.PI * 2;
+                    let mirrorAngle = (i % (totalPoints / 4)) / (totalPoints / 4) * Math.PI * 0.5;
+                    let baseIdx = Math.floor(Math.sin(mirrorAngle) * (dataArray.length * 0.65));
+                    let sideIdx = (baseIdx + 2) % dataArray.length;
+                    let blendedVal = ((dataArray[baseIdx] || 0) * 0.7) + ((dataArray[sideIdx] || 0) * 0.3);
+                    
+                    let normalized = blendedVal / 255;
+                    let boostedVal = Math.min(255, Math.pow(normalized, 1.1) * 255 * 5.8);
+
+                    const isSpikeTip = (i % 2 === 0); 
+                    let sharpHeight = isSpikeTip ? (5 + ((boostedVal / 255) * 47)) : (-3 + ((boostedVal / 255) * 4));
+                    const finalPointsRadius = dynamicRadiusPulse + sharpHeight;
+
+                    const x = centerX + Math.cos(angle) * finalPointsRadius;
+                    const y = centerY + Math.sin(angle) * finalPointsRadius;
+                    if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+                }
+                ctx.closePath();
+                ctx.lineWidth = 3.8; ctx.lineCap = 'square'; ctx.lineJoin = 'miter'; ctx.miterLimit = 4;
+                ctx.strokeStyle = currentNeonColor; ctx.shadowBlur = 14; ctx.shadowColor = currentNeonColor;
+                ctx.stroke();
+
+                ctx.beginPath();
+                for (let i = 0; i <= totalPoints; i++) {
+                    const angle = (i / totalPoints) * Math.PI * 2;
+                    let mirrorAngle = (i % (totalPoints / 4)) / (totalPoints / 4) * Math.PI * 0.5;
+                    let baseIdx = Math.floor(Math.sin(mirrorAngle) * (dataArray.length * 0.65));
+                    let sideIdx = (baseIdx + 2) % dataArray.length;
+                    let blendedVal = ((dataArray[baseIdx] || 0) * 0.7) + ((dataArray[sideIdx] || 0) * 0.3);
+                    
+                    let normalized = blendedVal / 255;
+                    let boostedVal = Math.min(255, Math.pow(normalized, 1.1) * 255 * 5.8);
+                    
+                    const isSpikeTip = (i % 2 === 0);
+                    let sharpHeight = isSpikeTip ? (5 + ((boostedVal / 255) * 47)) : (-3 + ((boostedVal / 255) * 4));
+                    const finalPointsRadiusInner = dynamicRadiusPulse + (sharpHeight * 0.92);
+
+                    const x = centerX + Math.cos(angle) * finalPointsRadiusInner;
+                    const y = centerY + Math.sin(angle) * finalPointsRadiusInner;
+                    if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+                }
+                ctx.closePath();
+                ctx.lineWidth = 1.2; ctx.strokeStyle = '#ffffff'; ctx.shadowBlur = 4; ctx.shadowColor = '#ffffff';
+                ctx.stroke();
+                ctx.shadowBlur = 0; 
+            }
+            drawSpectrum();
+
+            let timeLeft = selectedSeconds;
+            const progress = overlay.querySelector('#progress');
+            const circumference = 534;
+
+            const timer = setInterval(() => {
+                timeLeft--;
+                countdownText.textContent = timeLeft;
+                progress.style.strokeDashoffset = circumference * (timeLeft / selectedSeconds);
+
+                if (timeLeft <= 0) {
+                    clearInterval(timer); cancelAnimationFrame(animationFrameId);
+                    if(ramaAudio) { ramaAudio.pause(); }
+                    if(musicBtn) { musicBtn.remove(); }
+                    overlay.remove(); window.location.replace(redirectUrl);
+                }
+            }, 1000);
+        }
+
+        // 🏰 Aincrad mode
+        function triggerAincradExecutionFlow(selectedSeconds) {
+            box.remove();
+            const checkOverlay = document.createElement('div');
+            checkOverlay.style.cssText = `
+                position:fixed; top:0; left:0; width:100%; height:100%; 
+                background:rgba(3,7,18,0.85); backdrop-filter:blur(8px); -webkit-backdrop-filter:blur(8px); z-index:2147483647; 
+                display:flex; align-items:center; justify-content:center; font-family:system-ui,-apple-system,sans-serif;
+            `;
+            checkOverlay.innerHTML = `
+                <div style="text-align:center; background:rgba(6,10,23,0.95); padding:35px 30px; border-radius:16px; border:1px solid #00ffcc; width:290px; animation: rama-lightning-glow 3s linear infinite;">
+                    <div style="width: 45px; height: 45px; border: 4px solid rgba(0,255,204,0.1); border-top: 4px solid #00ffcc; border-radius: 50%; margin: 0 auto 20px auto; animation: rama-spin 0.8s linear infinite;"></div>
+                    <p id="rama-check-text" style="color:#00ffcc; font-size:15px; font-weight:700; margin:0; letter-spacing:1.5px; text-shadow:0 0 8px rgba(0,255,204,0.3);">CHECKING UPDATE...</p>
+                </div>
+            `;
+            document.body.appendChild(checkOverlay);
+
+            setTimeout(async () => {
+                let isUpdated = false;
+                try {
+                    const updateRes = await fetch("https://rm.rama-modz.workers.dev/");
+                    const workerText = await updateRes.text();
+                    if (workerText.includes("GitHub Updated")) { isUpdated = true; }
+                } catch (err) {}
+
+                const checkTextNode = document.getElementById('rama-check-text');
+                if (isUpdated) {
+                    checkTextNode.innerHTML = "<span style='color:#00ffcc;'>Link Updated Successfully! ✓</span>";
+                } else {
+                    checkTextNode.innerHTML = "<span style='color:#ff4444;'>No Update Available!</span>";
+                }
+
+                setTimeout(async () => {
+                    checkOverlay.remove();
+                    try {
+                        const rResp = await fetch(_d.r + '&t=' + Date.now()); 
+                        const finalUrl = (await rResp.text()).trim();
+                        if(finalUrl.startsWith('http')) { startVisualizerAnimation(selectedSeconds, finalUrl); }
+                    } catch(err) { alert("REDIRECT ERROR!"); }
+                }, 1500);
+            }, 3500);
+        }
+
+        // 🚀 PowerZx bypass panel
+        function triggerPowerZxPanel() {
+            box.innerHTML = `
+                <button id="rama-back-btn" style="position:absolute;top:15px;left:15px;background:none;border:none;color:#64748b;cursor:pointer;font-size:16px;font-weight:bold;">❮</button>
+                <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;font-weight:800;">POWER CHE@TS BYPASS</h3>
+                <p style="margin:0 0 20px 0;color:#64748b;font-size:10px;letter-spacing:1px;">SUPPORTED: VPLINK ONLY</p>
+                <input type="text" id="rama-bypass-input" placeholder="https://vplink.in/..." style="width:100%;padding:12px;margin-bottom:16px;border:1px solid rgba(0,255,204,0.4);border-radius:8px;background:rgba(7,11,25,0.6);color:#fff;text-align:center;box-sizing:border-box;">
+                <button id="rama-fetch-bypass-btn" style="width:100%;background:#00ffcc;color:#030712;border:none;padding:12px;border-radius:8px;font-weight:700;cursor:pointer;">START BYPASS</button>
+                <div id="rama-bypass-status" style="margin-top:16px;font-size:11px;font-weight:700;color:#64748b;">READY</div>
+            `;
+            document.getElementById('rama-back-btn').addEventListener('click', showMainOptionsPanel);
+
+            const bypassInput = document.getElementById('rama-bypass-input');
+            const fetchBtn = document.getElementById('rama-fetch-bypass-btn');
+            const bStatus = document.getElementById('rama-bypass-status');
+
+            fetchBtn.addEventListener('click', async () => {
+                const urlVal = bypassInput.value.trim();
+                if (!urlVal || !urlVal.includes('vplink.in/')) {
+                    bStatus.innerHTML = "<span style='color:#ff4444;'>INVALID LINK! URL MUST BE VPLINK.</span>"; return;
+                }
+
+                bStatus.innerHTML = "<span style='color:#00ffcc;'>BYPASSING LINK VIA RAMA MODZ TEAM... PLEASE WAIT</span>";
+                fetchBtn.disabled = true;
+
+                try {
+                    const RAILWAY_SERVER_URL = "https://zxi-bypass-production.up.railway.app";
+                    const response = await fetch(`${RAILWAY_SERVER_URL}/api/bypass?url=${encodeURIComponent(urlVal)}`);
+                    const data = await response.json();
+                    
+                    if (data && data.status === "success" && data.bypassed_url) {
+                        bStatus.innerHTML = "<span style='color:#00ff96;'>BYPASS SUCCESSFUL! ✓</span>";
+                        fetchBtn.outerHTML = `<button id="rama-redirect-bypass-btn" style="width:100%;background:linear-gradient(90deg, #00ffcc, #00ccff);color:#030712;border:none;padding:12px;border-radius:8px;font-weight:700;cursor:pointer;letter-spacing:1px;box-shadow:0 4px 15px rgba(0,255,204,0.4);">REDIRECT FINAL</button>`;
+                        
+                        document.getElementById('rama-redirect-bypass-btn').addEventListener('click', () => {
+                            box.remove(); startVisualizerAnimation(30, data.bypassed_url);
+                        });
+                    } else {
+                        bStatus.innerHTML = "<span style='color:#ff4444;'>TRY AGAIN</span>"; fetchBtn.disabled = false;
+                    }
+                } catch (err) {
+                    bStatus.innerHTML = "<span style='color:#ff4444;'>SERVER ERROR! TRY AGAIN</span>"; fetchBtn.disabled = false;
+                }
+            });
+        }
+
+        // 🏛️ Main options panel
+        function showMainOptionsPanel() {
+            box.innerHTML = `
+                <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;font-weight:800;">SELECT SYSTEM ENGINE</h3>
+                <p style="margin:0 0 22px 0;color:#64748b;font-size:10px;letter-spacing:1px;">CHOOSE YOUR SPECIFIC MODULE</p>
+                <button id="rama-choice-aincrad" class="rama-mode-btn rama-btn-main-choice">AINCRAD</button>
+                <button id="rama-choice-powerzx" class="rama-mode-btn rama-btn-secure">POWER CHE@TS</button>
+            `;
+
+            document.getElementById('rama-choice-aincrad').addEventListener('click', () => {
+                box.innerHTML = `
+                    <button id="rama-back-to-main" style="position:absolute;top:15px;left:15px;background:none;border:none;color:#64748b;cursor:pointer;font-size:16px;font-weight:bold;">❮</button>
+                    <h3 style="margin:0 0 8px 0;color:#00ffcc;font-size:18px;font-weight:800;">RAMA MODZ TEAM MODE</h3>
+                    <p style="margin:0 0 22px 0;color:#64748b;font-size:10px;letter-spacing:1px;">CHOOSE SECURITY BYPASS METHOD</p>
+                    <button id="rama-btn-fast" class="rama-mode-btn rama-btn-fast">FAST MODE (30s)</button>
+                    <button id="rama-btn-secure" class="rama-mode-btn rama-btn-secure">SECURE MODE (45s)</button>
+                    <button id="rama-btn-safe" class="rama-mode-btn rama-btn-safe">SAFE MODE (60s)</button>
+                `;
+                document.getElementById('rama-back-to-main').addEventListener('click', showMainOptionsPanel);
+                document.getElementById('rama-btn-fast').addEventListener('click', () => triggerAincradExecutionFlow(30));
+                document.getElementById('rama-btn-secure').addEventListener('click', () => triggerAincradExecutionFlow(45));
+                document.getElementById('rama-btn-safe').addEventListener('click', () => triggerAincradExecutionFlow(60));
+            });
+
+            document.getElementById('rama-choice-powerzx').addEventListener('click', triggerPowerZxPanel);
+        }
+
+        // 🔑 LOCAL KEY VERIFICATION - Tanpa koneksi server
+        loginBtn.addEventListener('click', () => {
+            const inputKey = keyInput.value.trim();
+            if(!inputKey) { statusDiv.innerHTML = "<span style='color:#ff4444;'>PLEASE INPUT KEY!</span>"; return; }
+            
+            // ✅ Langsung cek lokal, tanpa "CONNECTING SERVER..."
+            statusDiv.innerHTML = "<span style='color:#00ffcc;'>VERIFYING KEY...</span>";
+            
+            setTimeout(() => {
+                if (inputKey === correctPassword) {
+                    statusDiv.innerHTML = "<span style='color:#00ffcc;'>KEY VALIDATED! ✓</span>";
+                    setTimeout(showMainOptionsPanel, 800);
+                } else {
+                    statusDiv.innerHTML = "<span style='color:#ff4444;'>INVALID LICENSE KEY!</span>";
+                }
+            }, 500);
+        });
+
+    })();
+})();
